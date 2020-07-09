@@ -1,0 +1,864 @@
+{
+      "pageInfo": {
+            "page": 0,
+            "numPages": 1984,
+            "pageSize": 10,
+            "numEntries": 19832
+      },
+      "content": [
+            {
+                  "timestamp": "1975-06-07T11:00:00+0000",
+                  "label": "Match 1",
+                  "tournamentId": {
+                        "id": 2858,
+                        "name": "cwc-1975",
+                        "provisional": false
+                  },
+                  "tournamentLabel": "Prudential World Cup 1975",
+                  "scheduleEntry": {
+                        "matchId": {
+                              "id": 2859,
+                              "name": "cwc-1975-01",
+                              "tournamentId": {
+                                    "id": 2858,
+                                    "name": "cwc-1975",
+                                    "provisional": false
+                              }
+                        },
+                        "description": "Match 1",
+                        "matchDate": "1975-06-07T11:00:00+0000",
+                        "matchType": "ODI",
+                        "matchState": "C",
+                        "venue": {
+                              "id": 73,
+                              "fullName": "Headingley",
+                              "shortName": "Headingley",
+                              "city": "Leeds",
+                              "country": "England"
+                        },
+                        "matchStatus": {
+                              "outcome": "A",
+                              "text": "Australia won by 73 runs"
+                        },
+                        "team1": {
+                              "team": {
+                                    "id": 15,
+                                    "fullName": "Australia",
+                                    "shortName": "Australia",
+                                    "abbreviation": "AUS",
+                                    "type": "m",
+                                    "primaryColor": "0B661E",
+                                    "secondaryColor": "FFD500"
+                              },
+                              "innings": [
+                                    {
+                                          "inningsNumber": 1,
+                                          "runs": 278,
+                                          "wkts": 7,
+                                          "ballsFaced": 360,
+                                          "maxBalls": 360,
+                                          "allOut": false,
+                                          "declared": false
+                                    }
+                              ]
+                        },
+                        "team2": {
+                              "team": {
+                                    "id": 20,
+                                    "fullName": "Pakistan",
+                                    "shortName": "Pakistan",
+                                    "abbreviation": "PAK",
+                                    "type": "m",
+                                    "primaryColor": "206500",
+                                    "secondaryColor": "70E101"
+                              },
+                              "innings": [
+                                    {
+                                          "inningsNumber": 2,
+                                          "runs": 205,
+                                          "wkts": 10,
+                                          "ballsFaced": 318,
+                                          "maxBalls": 360,
+                                          "allOut": true,
+                                          "declared": false
+                                    }
+                              ]
+                        },
+                        "groupName": "Group B"
+                  },
+                  "resultOnly": false,
+                  "timestampMs": 171370800000,
+                  "endTimestampMs": 171414000000,
+                  "endTimestamp": "1975-06-07T23:00:00+0000"
+            },
+            {
+                  "timestamp": "1975-06-07T11:00:00+0000",
+                  "label": "Match 2",
+                  "tournamentId": {
+                        "id": 2858,
+                        "name": "cwc-1975",
+                        "provisional": false
+                  },
+                  "tournamentLabel": "Prudential World Cup 1975",
+                  "scheduleEntry": {
+                        "matchId": {
+                              "id": 2860,
+                              "name": "cwc-1975-02",
+                              "tournamentId": {
+                                    "id": 2858,
+                                    "name": "cwc-1975",
+                                    "provisional": false
+                              }
+                        },
+                        "description": "Match 2",
+                        "matchDate": "1975-06-07T11:00:00+0000",
+                        "matchType": "ODI",
+                        "matchState": "C",
+                        "venue": {
+                              "id": 40,
+                              "fullName": "Edgbaston",
+                              "shortName": "Edgbaston",
+                              "city": "Birmingham",
+                              "country": "England"
+                        },
+                        "matchStatus": {
+                              "outcome": "B",
+                              "text": "New Zealand won by 181 runs"
+                        },
+                        "team1": {
+                              "team": {
+                                    "id": 417,
+                                    "fullName": "East Africa",
+                                    "shortName": "East Africa",
+                                    "abbreviation": "EAF",
+                                    "type": "m",
+                                    "primaryColor": "000000",
+                                    "secondaryColor": "FFFFFF"
+                              },
+                              "innings": [
+                                    {
+                                          "inningsNumber": 2,
+                                          "runs": 128,
+                                          "wkts": 8,
+                                          "ballsFaced": 360,
+                                          "maxBalls": 360,
+                                          "allOut": false,
+                                          "declared": false
+                                    }
+                              ]
+                        },
+                        "team2": {
+                              "team": {
+                                    "id": 16,
+                                    "fullName": "New Zealand",
+                                    "shortName": "New Zealand",
+                                    "abbreviation": "NZ",
+                                    "type": "m",
+                                    "primaryColor": "1F1F1F",
+                                    "secondaryColor": "E8EBED"
+                              },
+                              "innings": [
+                                    {
+                                          "inningsNumber": 1,
+                                          "runs": 309,
+                                          "wkts": 5,
+                                          "ballsFaced": 360,
+                                          "maxBalls": 360,
+                                          "allOut": false,
+                                          "declared": false
+                                    }
+                              ]
+                        },
+                        "groupName": "Group A"
+                  },
+                  "resultOnly": false,
+                  "timestampMs": 171370800000,
+                  "endTimestampMs": 171414000000,
+                  "endTimestamp": "1975-06-07T23:00:00+0000"
+            },
+            {
+                  "timestamp": "1975-06-07T11:00:00+0000",
+                  "label": "Match 3",
+                  "tournamentId": {
+                        "id": 2858,
+                        "name": "cwc-1975",
+                        "provisional": false
+                  },
+                  "tournamentLabel": "Prudential World Cup 1975",
+                  "scheduleEntry": {
+                        "matchId": {
+                              "id": 2861,
+                              "name": "cwc-1975-03",
+                              "tournamentId": {
+                                    "id": 2858,
+                                    "name": "cwc-1975",
+                                    "provisional": false
+                              }
+                        },
+                        "description": "Match 3",
+                        "matchDate": "1975-06-07T11:00:00+0000",
+                        "matchType": "ODI",
+                        "matchState": "C",
+                        "venue": {
+                              "id": 71,
+                              "fullName": "Lord's",
+                              "shortName": "Lord's Cricket Ground",
+                              "city": "London",
+                              "country": "England",
+                              "coordinates": {
+                                    "longitude": 0.0,
+                                    "latitude": 0.0
+                              }
+                        },
+                        "matchStatus": {
+                              "outcome": "A",
+                              "text": "England won by 202 runs"
+                        },
+                        "team1": {
+                              "team": {
+                                    "id": 11,
+                                    "fullName": "England",
+                                    "shortName": "England",
+                                    "abbreviation": "ENG",
+                                    "type": "m",
+                                    "primaryColor": "04064D",
+                                    "secondaryColor": "FE1448"
+                              },
+                              "innings": [
+                                    {
+                                          "inningsNumber": 1,
+                                          "runs": 334,
+                                          "wkts": 4,
+                                          "ballsFaced": 360,
+                                          "maxBalls": 360,
+                                          "allOut": false,
+                                          "declared": false
+                                    }
+                              ]
+                        },
+                        "team2": {
+                              "team": {
+                                    "id": 14,
+                                    "fullName": "India",
+                                    "shortName": "India",
+                                    "abbreviation": "IND",
+                                    "type": "m",
+                                    "primaryColor": "0057AF",
+                                    "secondaryColor": "FF5500"
+                              },
+                              "innings": [
+                                    {
+                                          "inningsNumber": 2,
+                                          "runs": 132,
+                                          "wkts": 3,
+                                          "ballsFaced": 360,
+                                          "maxBalls": 360,
+                                          "allOut": false,
+                                          "declared": false
+                                    }
+                              ]
+                        },
+                        "groupName": "Group A"
+                  },
+                  "resultOnly": false,
+                  "timestampMs": 171370800000,
+                  "endTimestampMs": 171414000000,
+                  "endTimestamp": "1975-06-07T23:00:00+0000"
+            },
+            {
+                  "timestamp": "1975-06-07T11:00:00+0000",
+                  "label": "Match 4",
+                  "tournamentId": {
+                        "id": 2858,
+                        "name": "cwc-1975",
+                        "provisional": false
+                  },
+                  "tournamentLabel": "Prudential World Cup 1975",
+                  "scheduleEntry": {
+                        "matchId": {
+                              "id": 2862,
+                              "name": "cwc-1975-04",
+                              "tournamentId": {
+                                    "id": 2858,
+                                    "name": "cwc-1975",
+                                    "provisional": false
+                              }
+                        },
+                        "description": "Match 4",
+                        "matchDate": "1975-06-07T11:00:00+0000",
+                        "matchType": "ODI",
+                        "matchState": "C",
+                        "venue": {
+                              "id": 39,
+                              "fullName": "Old Trafford",
+                              "shortName": "Old Trafford",
+                              "city": "Manchester",
+                              "country": "England"
+                        },
+                        "matchStatus": {
+                              "outcome": "B",
+                              "text": "West Indies won by 9 wickets"
+                        },
+                        "team1": {
+                              "team": {
+                                    "id": 13,
+                                    "fullName": "Sri Lanka",
+                                    "shortName": "Sri Lanka",
+                                    "abbreviation": "SL",
+                                    "type": "m",
+                                    "primaryColor": "1B2E96",
+                                    "secondaryColor": "FFC500"
+                              },
+                              "innings": [
+                                    {
+                                          "inningsNumber": 1,
+                                          "runs": 86,
+                                          "wkts": 10,
+                                          "ballsFaced": 224,
+                                          "maxBalls": 360,
+                                          "allOut": true,
+                                          "declared": false
+                                    }
+                              ]
+                        },
+                        "team2": {
+                              "team": {
+                                    "id": 21,
+                                    "fullName": "West Indies",
+                                    "shortName": "West Indies",
+                                    "abbreviation": "WI",
+                                    "type": "m",
+                                    "primaryColor": "7D1041",
+                                    "secondaryColor": "E2DA14"
+                              },
+                              "innings": [
+                                    {
+                                          "inningsNumber": 2,
+                                          "runs": 87,
+                                          "wkts": 1,
+                                          "ballsFaced": 124,
+                                          "maxBalls": 360,
+                                          "allOut": false,
+                                          "declared": false
+                                    }
+                              ]
+                        },
+                        "groupName": "Group B"
+                  },
+                  "resultOnly": false,
+                  "timestampMs": 171370800000,
+                  "endTimestampMs": 171414000000,
+                  "endTimestamp": "1975-06-07T23:00:00+0000"
+            },
+            {
+                  "timestamp": "1975-06-11T11:00:00+0000",
+                  "label": "Match 5",
+                  "tournamentId": {
+                        "id": 2858,
+                        "name": "cwc-1975",
+                        "provisional": false
+                  },
+                  "tournamentLabel": "Prudential World Cup 1975",
+                  "scheduleEntry": {
+                        "matchId": {
+                              "id": 2863,
+                              "name": "cwc-1975-05",
+                              "tournamentId": {
+                                    "id": 2858,
+                                    "name": "cwc-1975",
+                                    "provisional": false
+                              }
+                        },
+                        "description": "Match 5",
+                        "matchDate": "1975-06-11T11:00:00+0000",
+                        "matchType": "ODI",
+                        "matchState": "C",
+                        "venue": {
+                              "id": 82,
+                              "fullName": "The Oval",
+                              "shortName": "The Oval",
+                              "city": "London",
+                              "country": "England"
+                        },
+                        "matchStatus": {
+                              "outcome": "A",
+                              "text": "Australia won by 52 runs"
+                        },
+                        "team1": {
+                              "team": {
+                                    "id": 15,
+                                    "fullName": "Australia",
+                                    "shortName": "Australia",
+                                    "abbreviation": "AUS",
+                                    "type": "m",
+                                    "primaryColor": "0B661E",
+                                    "secondaryColor": "FFD500"
+                              },
+                              "innings": [
+                                    {
+                                          "inningsNumber": 1,
+                                          "runs": 328,
+                                          "wkts": 5,
+                                          "ballsFaced": 360,
+                                          "maxBalls": 360,
+                                          "allOut": false,
+                                          "declared": false
+                                    }
+                              ]
+                        },
+                        "team2": {
+                              "team": {
+                                    "id": 13,
+                                    "fullName": "Sri Lanka",
+                                    "shortName": "Sri Lanka",
+                                    "abbreviation": "SL",
+                                    "type": "m",
+                                    "primaryColor": "1B2E96",
+                                    "secondaryColor": "FFC500"
+                              },
+                              "innings": [
+                                    {
+                                          "inningsNumber": 2,
+                                          "runs": 276,
+                                          "wkts": 4,
+                                          "ballsFaced": 360,
+                                          "maxBalls": 360,
+                                          "allOut": false,
+                                          "declared": false
+                                    }
+                              ]
+                        },
+                        "groupName": "Group B"
+                  },
+                  "resultOnly": false,
+                  "timestampMs": 171716400000,
+                  "endTimestampMs": 171759600000,
+                  "endTimestamp": "1975-06-11T23:00:00+0000"
+            },
+            {
+                  "timestamp": "1975-06-11T11:00:00+0000",
+                  "label": "Match 6",
+                  "tournamentId": {
+                        "id": 2858,
+                        "name": "cwc-1975",
+                        "provisional": false
+                  },
+                  "tournamentLabel": "Prudential World Cup 1975",
+                  "scheduleEntry": {
+                        "matchId": {
+                              "id": 2864,
+                              "name": "cwc-1975-06",
+                              "tournamentId": {
+                                    "id": 2858,
+                                    "name": "cwc-1975",
+                                    "provisional": false
+                              }
+                        },
+                        "description": "Match 6",
+                        "matchDate": "1975-06-11T11:00:00+0000",
+                        "matchType": "ODI",
+                        "matchState": "C",
+                        "venue": {
+                              "id": 73,
+                              "fullName": "Headingley",
+                              "shortName": "Headingley",
+                              "city": "Leeds",
+                              "country": "England"
+                        },
+                        "matchStatus": {
+                              "outcome": "B",
+                              "text": "India won by 10 wickets"
+                        },
+                        "team1": {
+                              "team": {
+                                    "id": 417,
+                                    "fullName": "East Africa",
+                                    "shortName": "East Africa",
+                                    "abbreviation": "EAF",
+                                    "type": "m",
+                                    "primaryColor": "000000",
+                                    "secondaryColor": "FFFFFF"
+                              },
+                              "innings": [
+                                    {
+                                          "inningsNumber": 1,
+                                          "runs": 120,
+                                          "wkts": 10,
+                                          "ballsFaced": 333,
+                                          "maxBalls": 360,
+                                          "allOut": true,
+                                          "declared": false
+                                    }
+                              ]
+                        },
+                        "team2": {
+                              "team": {
+                                    "id": 14,
+                                    "fullName": "India",
+                                    "shortName": "India",
+                                    "abbreviation": "IND",
+                                    "type": "m",
+                                    "primaryColor": "0057AF",
+                                    "secondaryColor": "FF5500"
+                              },
+                              "innings": [
+                                    {
+                                          "inningsNumber": 2,
+                                          "runs": 123,
+                                          "wkts": 0,
+                                          "ballsFaced": 179,
+                                          "maxBalls": 360,
+                                          "allOut": false,
+                                          "declared": false
+                                    }
+                              ]
+                        },
+                        "groupName": "Group A"
+                  },
+                  "resultOnly": false,
+                  "timestampMs": 171716400000,
+                  "endTimestampMs": 171759600000,
+                  "endTimestamp": "1975-06-11T23:00:00+0000"
+            },
+            {
+                  "timestamp": "1975-06-11T11:00:00+0000",
+                  "label": "Match 7",
+                  "tournamentId": {
+                        "id": 2858,
+                        "name": "cwc-1975",
+                        "provisional": false
+                  },
+                  "tournamentLabel": "Prudential World Cup 1975",
+                  "scheduleEntry": {
+                        "matchId": {
+                              "id": 2865,
+                              "name": "cwc-1975-07",
+                              "tournamentId": {
+                                    "id": 2858,
+                                    "name": "cwc-1975",
+                                    "provisional": false
+                              }
+                        },
+                        "description": "Match 7",
+                        "matchDate": "1975-06-11T11:00:00+0000",
+                        "matchType": "ODI",
+                        "matchState": "C",
+                        "venue": {
+                              "id": 70,
+                              "fullName": "Trent Bridge",
+                              "shortName": "Trent Bridge",
+                              "city": "Nottingham",
+                              "country": "England"
+                        },
+                        "matchStatus": {
+                              "outcome": "A",
+                              "text": "England won by 80 runs"
+                        },
+                        "team1": {
+                              "team": {
+                                    "id": 11,
+                                    "fullName": "England",
+                                    "shortName": "England",
+                                    "abbreviation": "ENG",
+                                    "type": "m",
+                                    "primaryColor": "04064D",
+                                    "secondaryColor": "FE1448"
+                              },
+                              "innings": [
+                                    {
+                                          "inningsNumber": 1,
+                                          "runs": 266,
+                                          "wkts": 6,
+                                          "ballsFaced": 360,
+                                          "maxBalls": 360,
+                                          "allOut": false,
+                                          "declared": false
+                                    }
+                              ]
+                        },
+                        "team2": {
+                              "team": {
+                                    "id": 16,
+                                    "fullName": "New Zealand",
+                                    "shortName": "New Zealand",
+                                    "abbreviation": "NZ",
+                                    "type": "m",
+                                    "primaryColor": "1F1F1F",
+                                    "secondaryColor": "E8EBED"
+                              },
+                              "innings": [
+                                    {
+                                          "inningsNumber": 2,
+                                          "runs": 186,
+                                          "wkts": 10,
+                                          "ballsFaced": 360,
+                                          "maxBalls": 360,
+                                          "allOut": true,
+                                          "declared": false
+                                    }
+                              ]
+                        },
+                        "groupName": "Group A"
+                  },
+                  "resultOnly": false,
+                  "timestampMs": 171716400000,
+                  "endTimestampMs": 171759600000,
+                  "endTimestamp": "1975-06-11T23:00:00+0000"
+            },
+            {
+                  "timestamp": "1975-06-11T11:00:00+0000",
+                  "label": "Match 8",
+                  "tournamentId": {
+                        "id": 2858,
+                        "name": "cwc-1975",
+                        "provisional": false
+                  },
+                  "tournamentLabel": "Prudential World Cup 1975",
+                  "scheduleEntry": {
+                        "matchId": {
+                              "id": 2866,
+                              "name": "cwc-1975-08",
+                              "tournamentId": {
+                                    "id": 2858,
+                                    "name": "cwc-1975",
+                                    "provisional": false
+                              }
+                        },
+                        "description": "Match 8",
+                        "matchDate": "1975-06-11T11:00:00+0000",
+                        "matchType": "ODI",
+                        "matchState": "C",
+                        "venue": {
+                              "id": 40,
+                              "fullName": "Edgbaston",
+                              "shortName": "Edgbaston",
+                              "city": "Birmingham",
+                              "country": "England"
+                        },
+                        "matchStatus": {
+                              "outcome": "B",
+                              "text": "West Indies won by 1 wicket"
+                        },
+                        "team1": {
+                              "team": {
+                                    "id": 20,
+                                    "fullName": "Pakistan",
+                                    "shortName": "Pakistan",
+                                    "abbreviation": "PAK",
+                                    "type": "m",
+                                    "primaryColor": "206500",
+                                    "secondaryColor": "70E101"
+                              },
+                              "innings": [
+                                    {
+                                          "inningsNumber": 1,
+                                          "runs": 266,
+                                          "wkts": 7,
+                                          "ballsFaced": 360,
+                                          "maxBalls": 360,
+                                          "allOut": false,
+                                          "declared": false
+                                    }
+                              ]
+                        },
+                        "team2": {
+                              "team": {
+                                    "id": 21,
+                                    "fullName": "West Indies",
+                                    "shortName": "West Indies",
+                                    "abbreviation": "WI",
+                                    "type": "m",
+                                    "primaryColor": "7D1041",
+                                    "secondaryColor": "E2DA14"
+                              },
+                              "innings": [
+                                    {
+                                          "inningsNumber": 2,
+                                          "runs": 267,
+                                          "wkts": 9,
+                                          "ballsFaced": 358,
+                                          "maxBalls": 360,
+                                          "allOut": false,
+                                          "declared": false
+                                    }
+                              ]
+                        },
+                        "groupName": "Group B"
+                  },
+                  "resultOnly": false,
+                  "timestampMs": 171716400000,
+                  "endTimestampMs": 171759600000,
+                  "endTimestamp": "1975-06-11T23:00:00+0000"
+            },
+            {
+                  "timestamp": "1975-06-14T11:00:00+0000",
+                  "label": "Match 9",
+                  "tournamentId": {
+                        "id": 2858,
+                        "name": "cwc-1975",
+                        "provisional": false
+                  },
+                  "tournamentLabel": "Prudential World Cup 1975",
+                  "scheduleEntry": {
+                        "matchId": {
+                              "id": 2867,
+                              "name": "cwc-1975-09",
+                              "tournamentId": {
+                                    "id": 2858,
+                                    "name": "cwc-1975",
+                                    "provisional": false
+                              }
+                        },
+                        "description": "Match 9",
+                        "matchDate": "1975-06-14T11:00:00+0000",
+                        "matchType": "ODI",
+                        "matchState": "C",
+                        "venue": {
+                              "id": 82,
+                              "fullName": "The Oval",
+                              "shortName": "The Oval",
+                              "city": "London",
+                              "country": "England"
+                        },
+                        "matchStatus": {
+                              "outcome": "B",
+                              "text": "West Indies won by 7 wickets"
+                        },
+                        "team1": {
+                              "team": {
+                                    "id": 15,
+                                    "fullName": "Australia",
+                                    "shortName": "Australia",
+                                    "abbreviation": "AUS",
+                                    "type": "m",
+                                    "primaryColor": "0B661E",
+                                    "secondaryColor": "FFD500"
+                              },
+                              "innings": [
+                                    {
+                                          "inningsNumber": 1,
+                                          "runs": 192,
+                                          "wkts": 10,
+                                          "ballsFaced": 322,
+                                          "maxBalls": 360,
+                                          "allOut": true,
+                                          "declared": false
+                                    }
+                              ]
+                        },
+                        "team2": {
+                              "team": {
+                                    "id": 21,
+                                    "fullName": "West Indies",
+                                    "shortName": "West Indies",
+                                    "abbreviation": "WI",
+                                    "type": "m",
+                                    "primaryColor": "7D1041",
+                                    "secondaryColor": "E2DA14"
+                              },
+                              "innings": [
+                                    {
+                                          "inningsNumber": 2,
+                                          "runs": 195,
+                                          "wkts": 3,
+                                          "ballsFaced": 276,
+                                          "maxBalls": 360,
+                                          "allOut": false,
+                                          "declared": false
+                                    }
+                              ]
+                        },
+                        "groupName": "Group B"
+                  },
+                  "resultOnly": false,
+                  "timestampMs": 171975600000,
+                  "endTimestampMs": 172018800000,
+                  "endTimestamp": "1975-06-14T23:00:00+0000"
+            },
+            {
+                  "timestamp": "1975-06-14T11:00:00+0000",
+                  "label": "Match 10",
+                  "tournamentId": {
+                        "id": 2858,
+                        "name": "cwc-1975",
+                        "provisional": false
+                  },
+                  "tournamentLabel": "Prudential World Cup 1975",
+                  "scheduleEntry": {
+                        "matchId": {
+                              "id": 2868,
+                              "name": "cwc-1975-10",
+                              "tournamentId": {
+                                    "id": 2858,
+                                    "name": "cwc-1975",
+                                    "provisional": false
+                              }
+                        },
+                        "description": "Match 10",
+                        "matchDate": "1975-06-14T11:00:00+0000",
+                        "matchType": "ODI",
+                        "matchState": "C",
+                        "venue": {
+                              "id": 40,
+                              "fullName": "Edgbaston",
+                              "shortName": "Edgbaston",
+                              "city": "Birmingham",
+                              "country": "England"
+                        },
+                        "matchStatus": {
+                              "outcome": "A",
+                              "text": "England won by 196 runs"
+                        },
+                        "team1": {
+                              "team": {
+                                    "id": 11,
+                                    "fullName": "England",
+                                    "shortName": "England",
+                                    "abbreviation": "ENG",
+                                    "type": "m",
+                                    "primaryColor": "04064D",
+                                    "secondaryColor": "FE1448"
+                              },
+                              "innings": [
+                                    {
+                                          "inningsNumber": 1,
+                                          "runs": 290,
+                                          "wkts": 5,
+                                          "ballsFaced": 360,
+                                          "maxBalls": 360,
+                                          "allOut": false,
+                                          "declared": false
+                                    }
+                              ]
+                        },
+                        "team2": {
+                              "team": {
+                                    "id": 417,
+                                    "fullName": "East Africa",
+                                    "shortName": "East Africa",
+                                    "abbreviation": "EAF",
+                                    "type": "m",
+                                    "primaryColor": "000000",
+                                    "secondaryColor": "FFFFFF"
+                              },
+                              "innings": [
+                                    {
+                                          "inningsNumber": 2,
+                                          "runs": 94,
+                                          "wkts": 10,
+                                          "ballsFaced": 315,
+                                          "maxBalls": 360,
+                                          "allOut": true,
+                                          "declared": false
+                                    }
+                              ]
+                        },
+                        "groupName": "Group A"
+                  },
+                  "resultOnly": false,
+                  "timestampMs": 171975600000,
+                  "endTimestampMs": 172018800000,
+                  "endTimestamp": "1975-06-14T23:00:00+0000"
+            }
+      ]
+}
