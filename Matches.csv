@@ -1,0 +1,706 @@
+,0,1,2,3,4,5,6,7
+0,ID,Season,Home,Away,TossWin,TossDec,Venue,Winner
+1,1,2008,KKR,RCB,Team 2,field,M.Chinnaswamy Stadium,Team 1
+2,2,2008,CSK,KXIP,Team 1,bat,Punjab Cricket Association IS Bindra Stadium,Team 1
+3,3,2008,RR,DC,Team 1,bat,Arun Jaitley Stadium,Team 2
+4,4,2008,DC,KKR,Team 1,bat,Eden Gardens,Team 2
+5,5,2008,MI,RCB,Team 1,bat,Wankhede Stadium,Team 2
+6,6,2008,KXIP,RR,Team 1,bat,Sawai Mansingh Stadium,Team 2
+7,7,2008,DC,DC,Team 1,bat,Rajiv Gandhi International Stadium,Team 2
+8,8,2008,CSK,MI,Team 2,field,MA Chidambaram Stadium,Team 1
+9,9,2008,DC,RR,Team 2,field,Rajiv Gandhi International Stadium,Team 2
+10,10,2008,KXIP,MI,Team 2,field,Punjab Cricket Association IS Bindra Stadium,Team 1
+11,11,2008,KKR,CSK,Team 1,bat,MA Chidambaram Stadium,Team 2
+12,12,2008,RCB,RR,Team 2,field,M.Chinnaswamy Stadium,Team 2
+13,13,2008,DC,KXIP,Team 1,bat,Punjab Cricket Association IS Bindra Stadium,Team 2
+14,14,2008,MI,DC,Team 2,field,Dr DY Patil Sports Academy,Team 2
+15,15,2008,CSK,RCB,Team 1,bat,M.Chinnaswamy Stadium,Team 1
+16,16,2008,KKR,MI,Team 1,bat,Eden Gardens,Team 2
+17,17,2008,DC,RCB,Team 2,field,Arun Jaitley Stadium,Team 1
+18,18,2008,RR,KKR,Team 1,bat,Sawai Mansingh Stadium,Team 1
+19,19,2008,DC,KXIP,Team 2,field,Rajiv Gandhi International Stadium,Team 2
+20,20,2008,CSK,DC,Team 1,bat,MA Chidambaram Stadium,Team 2
+21,21,2008,RCB,DC,Team 2,field,M.Chinnaswamy Stadium,Team 1
+22,22,2008,KXIP,KKR,Team 1,bat,Punjab Cricket Association IS Bindra Stadium,Team 1
+23,23,2008,MI,DC,Team 2,field,Dr DY Patil Sports Academy,Team 1
+24,24,2008,CSK,RR,Team 1,bat,Sawai Mansingh Stadium,Team 2
+25,25,2008,RCB,KXIP,Team 2,field,M.Chinnaswamy Stadium,Team 2
+26,26,2008,CSK,DC,Team 2,field,MA Chidambaram Stadium,Team 2
+27,27,2008,RR,MI,Team 2,field,Dr DY Patil Sports Academy,Team 2
+28,28,2008,DC,CSK,Team 2,field,Arun Jaitley Stadium,Team 2
+29,29,2008,KKR,RCB,Team 1,bat,Eden Gardens,Team 1
+30,30,2008,DC,RR,Team 2,field,Sawai Mansingh Stadium,Team 2
+31,31,2008,CSK,KXIP,Team 2,field,MA Chidambaram Stadium,Team 1
+32,32,2008,KKR,DC,Team 1,bat,Rajiv Gandhi International Stadium,Team 1
+33,33,2008,DC,RR,Team 2,field,Sawai Mansingh Stadium,Team 2
+34,34,2008,RCB,KXIP,Team 1,bat,Punjab Cricket Association IS Bindra Stadium,Team 2
+35,35,2008,KKR,DC,Team 1,bat,Eden Gardens,Team 1
+36,36,2008,CSK,MI,Team 2,field,Wankhede Stadium,Team 2
+37,37,2008,DC,DC,Team 2,field,Arun Jaitley Stadium,Team 1
+38,38,2008,KKR,MI,Team 2,field,Wankhede Stadium,Team 2
+39,39,2008,RR,RCB,Team 2,field,Sawai Mansingh Stadium,Team 1
+40,40,2008,DC,KXIP,Team 1,bat,Arun Jaitley Stadium,Team 2
+41,41,2008,KKR,CSK,Team 1,bat,Eden Gardens,Team 2
+42,42,2008,MI,DC,Team 2,field,Rajiv Gandhi International Stadium,Team 1
+43,43,2008,RCB,DC,Team 2,field,M.Chinnaswamy Stadium,Team 2
+44,44,2008,KKR,RR,Team 2,field,Eden Gardens,Team 2
+45,45,2008,KXIP,MI,Team 2,field,Wankhede Stadium,Team 1
+46,46,2008,RCB,CSK,Team 1,bat,MA Chidambaram Stadium,Team 1
+47,47,2008,DC,KKR,none,none,Arun Jaitley Stadium,Team 1
+48,48,2008,DC,KXIP,Team 2,field,Punjab Cricket Association IS Bindra Stadium,Team 2
+49,49,2008,RR,CSK,Team 1,bat,MA Chidambaram Stadium,Team 1
+50,50,2008,MI,DC,Team 2,field,Arun Jaitley Stadium,Team 2
+51,51,2008,DC,RCB,Team 1,bat,Rajiv Gandhi International Stadium,Team 2
+52,52,2008,KXIP,KKR,Team 1,bat,Eden Gardens,Team 2
+53,53,2008,MI,RR,Team 2,field,Sawai Mansingh Stadium,Team 2
+54,54,2008,DC,CSK,Team 1,bat,Rajiv Gandhi International Stadium,Team 2
+55,55,2008,RCB,MI,Team 2,field,M.Chinnaswamy Stadium,Team 2
+56,56,2008,KXIP,RR,Team 2,field,Punjab Cricket Association IS Bindra Stadium,Team 1
+57,57,2008,RR,DC,Team 2,field,Wankhede Stadium,Team 1
+58,58,2008,KXIP,CSK,Team 1,bat,Wankhede Stadium,Team 1
+59,59,2008,CSK,RR,Team 2,field,Dr DY Patil Sports Academy,Team 1
+60,60,2009,MI,CSK,Team 2,field,Newlands,Team 1
+61,61,2009,RCB,RR,Team 1,bat,Newlands,Team 1
+62,62,2009,KXIP,DC,Team 2,field,Newlands,Team 2
+63,63,2009,KKR,DC,Team 1,bat,Newlands,Team 2
+64,64,2009,CSK,RCB,Team 1,bat,St George's Park,Team 1
+65,65,2009,KXIP,KKR,Team 2,field,Kingsmead,Team 2
+66,66,2009,MI,RR,none,none,Kingsmead,Team 1
+67,67,2009,DC,RCB,Team 1,bat,Newlands,Team 1
+68,68,2009,DC,CSK,Team 1,bat,Kingsmead,Team 1
+69,69,2009,RR,KKR,Team 2,field,Newlands,Team 1
+70,70,2009,RCB,KXIP,Team 1,bat,Kingsmead,Team 2
+71,71,2009,DC,MI,Team 1,bat,Kingsmead,Team 1
+72,72,2009,CSK,KKR,none,none,Newlands,Team 1
+73,73,2009,RCB,DC,Team 1,bat,St George's Park,Team 2
+74,74,2009,KXIP,RR,Team 1,bat,Newlands,Team 1
+75,75,2009,CSK,DC,Team 2,field,Kingsmead,Team 2
+76,76,2009,MI,KKR,Team 1,bat,St George's Park,Team 1
+77,77,2009,DC,RR,Team 1,bat,SuperSport Park,Team 2
+78,78,2009,KKR,RCB,Team 1,bat,Kingsmead,Team 2
+79,79,2009,KXIP,MI,Team 1,bat,Kingsmead,Team 1
+80,80,2009,DC,DC,Team 2,field,SuperSport Park,Team 2
+81,81,2009,CSK,RR,Team 2,field,SuperSport Park,Team 1
+82,82,2009,MI,KKR,Team 1,bat,Buffalo Park,Team 1
+83,83,2009,RCB,KXIP,Team 1,bat,Kingsmead,Team 1
+84,84,2009,DC,RR,Team 1,bat,St George's Park,Team 2
+85,85,2009,CSK,DC,Team 2,field,The Wanderers Stadium,Team 1
+86,86,2009,KKR,KXIP,Team 1,bat,St George's Park,Team 2
+87,87,2009,MI,RCB,Team 1,bat,The Wanderers Stadium,Team 2
+88,88,2009,CSK,DC,Team 1,bat,Buffalo Park,Team 1
+89,89,2009,RR,KXIP,Team 2,field,Kingsmead,Team 1
+90,90,2009,KKR,DC,Team 1,bat,Kingsmead,Team 2
+91,91,2009,DC,MI,Team 1,bat,SuperSport Park,Team 1
+92,92,2009,RCB,RR,Team 2,field,SuperSport Park,Team 2
+93,93,2009,CSK,KXIP,Team 1,bat,SuperSport Park,Team 1
+94,94,2009,MI,DC,Team 1,bat,Buffalo Park,Team 2
+95,95,2009,DC,KXIP,Team 2,field,Diamond Oval,Team 2
+96,96,2009,RR,CSK,Team 1,bat,Diamond Oval,Team 2
+97,97,2009,MI,RCB,Team 1,bat,St George's Park,Team 1
+98,98,2009,KKR,DC,Team 2,field,The Wanderers Stadium,Team 2
+99,99,2009,DC,RR,Team 1,bat,Diamond Oval,Team 1
+100,100,2009,KKR,RCB,Team 2,field,SuperSport Park,Team 2
+101,101,2009,KXIP,MI,Team 1,bat,SuperSport Park,Team 2
+102,102,2009,DC,DC,Team 2,field,Kingsmead,Team 1
+103,103,2009,CSK,RCB,Team 1,bat,Kingsmead,Team 2
+104,104,2009,RR,MI,Team 1,bat,Kingsmead,Team 1
+105,105,2009,DC,KXIP,Team 2,field,Mangaung Oval,Team 2
+106,106,2009,MI,CSK,Team 1,bat,St George's Park,Team 2
+107,107,2009,KKR,DC,Team 2,field,The Wanderers Stadium,Team 2
+108,108,2009,KXIP,DC,Team 2,field,The Wanderers Stadium,Team 1
+109,109,2009,DC,RR,Team 1,bat,Mangaung Oval,Team 1
+110,110,2009,CSK,KKR,Team 1,bat,SuperSport Park,Team 2
+111,111,2009,DC,RCB,Team 1,bat,The Wanderers Stadium,Team 2
+112,112,2009,RR,KKR,Team 2,field,Kingsmead,Team 2
+113,113,2009,CSK,KXIP,Team 1,bat,Kingsmead,Team 1
+114,114,2009,MI,DC,Team 2,field,SuperSport Park,Team 2
+115,115,2009,RCB,DC,Team 1,bat,SuperSport Park,Team 1
+116,116,2009,DC,DC,Team 2,field,SuperSport Park,Team 1
+117,117,2009,CSK,RCB,Team 2,field,The Wanderers Stadium,Team 1
+118,118,2009,DC,RCB,Team 2,field,The Wanderers Stadium,Team 1
+119,119,2011,CSK,KKR,Team 1,bat,MA Chidambaram Stadium,Team 1
+120,120,2011,DC,RR,Team 2,field,Rajiv Gandhi International Stadium,Team 2
+121,121,2011,Kochi,RCB,Team 1,bat,Nehru Stadium,Team 2
+122,122,2011,DC,MI,Team 1,bat,Arun Jaitley Stadium,Team 2
+123,123,2011,KXIP,PWI,Team 1,bat,Dr DY Patil Sports Academy,Team 2
+124,124,2011,KKR,DC,Team 1,bat,Eden Gardens,Team 1
+125,125,2011,DC,RR,Team 1,bat,Sawai Mansingh Stadium,Team 2
+126,126,2011,RCB,MI,Team 2,field,M.Chinnaswamy Stadium,Team 2
+127,127,2011,CSK,KXIP,Team 2,field,Punjab Cricket Association IS Bindra Stadium,Team 2
+128,128,2011,Kochi,PWI,Team 1,bat,Dr DY Patil Sports Academy,Team 2
+129,129,2011,DC,RCB,Team 2,field,Rajiv Gandhi International Stadium,Team 1
+130,130,2011,RR,KKR,Team 2,field,Sawai Mansingh Stadium,Team 2
+131,131,2011,MI,Kochi,Team 2,field,Wankhede Stadium,Team 2
+132,132,2011,CSK,RCB,Team 1,bat,MA Chidambaram Stadium,Team 1
+133,133,2011,DC,KXIP,Team 2,field,Rajiv Gandhi International Stadium,Team 2
+134,134,2011,PWI,DC,Team 2,field,Dr DY Patil Sports Academy,Team 2
+135,135,2011,RR,KKR,Team 2,field,Eden Gardens,Team 2
+136,136,2011,CSK,Kochi,Team 2,field,Nehru Stadium,Team 2
+137,137,2011,DC,DC,Team 1,bat,Arun Jaitley Stadium,Team 1
+138,138,2011,RCB,RR,none,none,M.Chinnaswamy Stadium,Team 1
+139,139,2011,PWI,MI,Team 1,bat,Wankhede Stadium,Team 2
+140,140,2011,Kochi,KKR,Team 2,field,Eden Gardens,Team 1
+141,141,2011,KXIP,RR,Team 2,field,Punjab Cricket Association IS Bindra Stadium,Team 1
+142,142,2011,KKR,RCB,Team 2,field,Eden Gardens,Team 2
+143,143,2011,MI,CSK,Team 2,field,Wankhede Stadium,Team 1
+144,144,2011,DC,KXIP,Team 2,field,Arun Jaitley Stadium,Team 1
+145,145,2011,MI,DC,Team 2,field,Rajiv Gandhi International Stadium,Team 1
+146,146,2011,Kochi,RR,Team 2,field,Sawai Mansingh Stadium,Team 2
+147,147,2011,CSK,PWI,Team 2,field,MA Chidambaram Stadium,Team 1
+148,148,2011,DC,RCB,Team 2,field,Arun Jaitley Stadium,Team 2
+149,149,2011,PWI,CSK,Team 1,bat,Dr DY Patil Sports Academy,Team 2
+150,150,2011,DC,Kochi,Team 2,field,Nehru Stadium,Team 1
+151,151,2011,KKR,DC,Team 2,field,Arun Jaitley Stadium,Team 1
+152,152,2011,MI,RR,Team 2,field,Sawai Mansingh Stadium,Team 2
+153,153,2011,RCB,PWI,Team 2,field,M.Chinnaswamy Stadium,Team 1
+154,154,2011,DC,Kochi,Team 1,bat,Nehru Stadium,Team 1
+155,155,2011,KXIP,KKR,Team 2,field,Eden Gardens,Team 2
+156,156,2011,PWI,RR,Team 2,field,Sawai Mansingh Stadium,Team 2
+157,157,2011,CSK,DC,Team 1,bat,MA Chidambaram Stadium,Team 1
+158,158,2011,MI,KXIP,Team 2,field,Wankhede Stadium,Team 1
+159,159,2011,DC,Kochi,Team 2,field,Arun Jaitley Stadium,Team 2
+160,160,2011,KKR,DC,Team 2,field,Rajiv Gandhi International Stadium,Team 1
+161,161,2011,RR,CSK,Team 1,bat,MA Chidambaram Stadium,Team 2
+162,162,2011,MI,PWI,Team 2,field,Dr DY Patil Sports Academy,Team 1
+163,163,2011,Kochi,KKR,Team 2,field,Nehru Stadium,Team 1
+164,164,2011,DC,DC,Team 2,field,Rajiv Gandhi International Stadium,Team 2
+165,165,2011,RCB,KXIP,Team 2,field,M.Chinnaswamy Stadium,Team 1
+166,166,2011,CSK,KKR,Team 1,bat,Eden Gardens,Team 2
+167,167,2011,MI,DC,Team 2,field,Wankhede Stadium,Team 1
+168,168,2011,Kochi,RCB,Team 1,bat,M.Chinnaswamy Stadium,Team 2
+169,169,2011,KXIP,PWI,Team 1,bat,Punjab Cricket Association IS Bindra Stadium,Team 2
+170,170,2011,CSK,RR,Team 2,field,Sawai Mansingh Stadium,Team 1
+171,171,2011,DC,PWI,Team 1,bat,Rajiv Gandhi International Stadium,Team 2
+172,172,2011,KXIP,MI,Team 2,field,Punjab Cricket Association IS Bindra Stadium,Team 1
+173,173,2011,RR,RCB,Team 2,field,Sawai Mansingh Stadium,Team 2
+174,174,2011,CSK,DC,Team 1,bat,MA Chidambaram Stadium,Team 1
+175,175,2011,Kochi,KXIP,Team 2,field,Holkar Cricket Stadium,Team 2
+176,176,2011,KKR,RCB,Team 2,field,M.Chinnaswamy Stadium,Team 2
+177,177,2011,DC,MI,Team 1,bat,Wankhede Stadium,Team 1
+178,178,2011,KXIP,DC,Team 2,field,Himachal Pradesh Cricket Association Stadium,Team 1
+179,179,2011,RR,Kochi,Team 2,field,Holkar Cricket Stadium,Team 2
+180,180,2011,PWI,DC,Team 2,field,Dr DY Patil Sports Academy,Team 2
+181,181,2011,KXIP,RCB,Team 1,bat,Himachal Pradesh Cricket Association Stadium,Team 1
+182,182,2011,CSK,Kochi,Team 1,bat,MA Chidambaram Stadium,Team 1
+183,183,2011,PWI,KKR,Team 2,field,Dr DY Patil Sports Academy,Team 2
+184,184,2011,MI,RR,Team 1,bat,Wankhede Stadium,Team 2
+185,185,2011,DC,KXIP,Team 2,field,Himachal Pradesh Cricket Association Stadium,Team 1
+186,186,2011,DC,PWI,Team 1,bat,Arun Jaitley Stadium,Team 1
+187,187,2011,CSK,RCB,Team 2,field,M.Chinnaswamy Stadium,Team 2
+188,188,2011,KKR,MI,Team 2,field,Eden Gardens,Team 2
+189,189,2011,RCB,CSK,Team 2,field,Wankhede Stadium,Team 1
+190,190,2011,KKR,MI,Team 2,field,Wankhede Stadium,Team 1
+191,191,2011,RCB,MI,Team 2,field,MA Chidambaram Stadium,Team 1
+192,192,2011,CSK,RCB,Team 1,bat,MA Chidambaram Stadium,Team 1
+193,193,2012,CSK,MI,Team 2,field,MA Chidambaram Stadium,Team 2
+194,194,2012,KKR,DC,Team 2,field,Eden Gardens,Team 2
+195,195,2012,PWI,MI,Team 2,field,Wankhede Stadium,Team 1
+196,196,2012,RR,KXIP,Team 2,field,Sawai Mansingh Stadium,Team 1
+197,197,2012,RCB,DC,Team 2,field,M.Chinnaswamy Stadium,Team 1
+198,198,2012,CSK,DC,Team 2,field,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Team 1
+199,199,2012,RR,KKR,Team 2,field,Sawai Mansingh Stadium,Team 1
+200,200,2012,PWI,KXIP,Team 1,bat,Maharashtra Cricket Association Stadium,Team 1
+201,201,2012,DC,MI,Team 1,bat,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Team 2
+202,202,2012,KKR,RCB,Team 2,field,M.Chinnaswamy Stadium,Team 1
+203,203,2012,CSK,DC,Team 2,field,Arun Jaitley Stadium,Team 2
+204,204,2012,MI,RR,Team 2,field,Wankhede Stadium,Team 1
+205,205,2012,RCB,CSK,Team 1,bat,MA Chidambaram Stadium,Team 2
+206,206,2012,PWI,KXIP,Team 2,field,Punjab Cricket Association IS Bindra Stadium,Team 2
+207,207,2012,RR,KKR,Team 1,bat,Eden Gardens,Team 2
+208,208,2012,CSK,PWI,Team 1,bat,Maharashtra Cricket Association Stadium,Team 2
+209,209,2012,KXIP,KKR,Team 2,field,Eden Gardens,Team 1
+210,210,2012,RR,RCB,Team 1,bat,M.Chinnaswamy Stadium,Team 1
+211,211,2012,MI,DC,Team 2,field,Wankhede Stadium,Team 2
+212,212,2012,DC,RR,Team 1,bat,Sawai Mansingh Stadium,Team 2
+213,213,2012,PWI,RCB,Team 1,bat,M.Chinnaswamy Stadium,Team 2
+214,214,2012,KXIP,KKR,Team 1,bat,Punjab Cricket Association IS Bindra Stadium,Team 2
+215,215,2012,DC,DC,Team 1,bat,Arun Jaitley Stadium,Team 2
+216,216,2012,CSK,PWI,Team 2,field,MA Chidambaram Stadium,Team 1
+217,217,2012,KXIP,RCB,Team 2,field,Punjab Cricket Association IS Bindra Stadium,Team 2
+218,218,2012,RR,CSK,Team 1,bat,MA Chidambaram Stadium,Team 2
+219,219,2012,PWI,DC,Team 2,field,Arun Jaitley Stadium,Team 1
+220,220,2012,MI,KXIP,Team 1,bat,Wankhede Stadium,Team 2
+221,221,2012,DC,KKR,Team 2,field,Barabati Stadium,Team 2
+222,222,2012,RCB,RR,Team 2,field,Sawai Mansingh Stadium,Team 1
+223,223,2012,PWI,DC,Team 1,bat,Maharashtra Cricket Association Stadium,Team 2
+224,224,2012,KKR,DC,none,none,Eden Gardens,Team 1
+225,225,2012,KXIP,MI,Team 1,bat,Punjab Cricket Association IS Bindra Stadium,Team 2
+226,226,2012,RCB,CSK,Team 1,field,M.Chinnaswamy Stadium,Team 1
+227,227,2012,DC,PWI,Team 1,bat,Maharashtra Cricket Association Stadium,Team 1
+228,228,2012,DC,MI,Team 2,field,Arun Jaitley Stadium,Team 1
+229,229,2012,KXIP,CSK,Team 1,bat,MA Chidambaram Stadium,Team 1
+230,230,2012,KKR,RCB,Team 1,bat,Eden Gardens,Team 1
+231,231,2012,DC,RR,Team 1,bat,Arun Jaitley Stadium,Team 1
+232,232,2012,DC,MI,Team 2,field,Wankhede Stadium,Team 2
+233,233,2012,CSK,KKR,Team 1,bat,MA Chidambaram Stadium,Team 2
+234,234,2012,DC,PWI,Team 1,bat,Barabati Stadium,Team 1
+235,235,2012,RR,DC,Team 1,bat,Sawai Mansingh Stadium,Team 2
+236,236,2012,RCB,KXIP,Team 2,field,M.Chinnaswamy Stadium,Team 2
+237,237,2012,MI,PWI,Team 1,bat,Maharashtra Cricket Association Stadium,Team 1
+238,238,2012,CSK,DC,Team 1,bat,MA Chidambaram Stadium,Team 1
+239,239,2012,KKR,PWI,Team 1,bat,Eden Gardens,Team 1
+240,240,2012,RR,KXIP,Team 1,bat,Punjab Cricket Association IS Bindra Stadium,Team 1
+241,241,2012,CSK,MI,Team 2,field,Wankhede Stadium,Team 2
+242,242,2012,DC,RCB,Team 2,field,M.Chinnaswamy Stadium,Team 2
+243,243,2012,DC,KKR,Team 1,bat,Arun Jaitley Stadium,Team 2
+244,244,2012,PWI,RR,Team 1,bat,Maharashtra Cricket Association Stadium,Team 2
+245,245,2012,KXIP,DC,Team 2,field,Rajiv Gandhi International Stadium,Team 1
+246,246,2012,MI,RCB,Team 2,field,Wankhede Stadium,Team 2
+247,247,2012,DC,DC,Team 1,bat,Rajiv Gandhi International Stadium,Team 2
+248,248,2012,RR,CSK,Team 2,field,Sawai Mansingh Stadium,Team 2
+249,249,2012,RCB,PWI,Team 2,field,Maharashtra Cricket Association Stadium,Team 1
+250,250,2012,MI,KKR,Team 1,bat,Eden Gardens,Team 1
+251,251,2012,DC,CSK,Team 2,field,MA Chidambaram Stadium,Team 2
+252,252,2012,RR,PWI,Team 1,bat,Sawai Mansingh Stadium,Team 1
+253,253,2012,DC,KXIP,Team 1,bat,Punjab Cricket Association IS Bindra Stadium,Team 2
+254,254,2012,RCB,MI,Team 2,field,M.Chinnaswamy Stadium,Team 2
+255,255,2012,KKR,CSK,Team 2,field,Eden Gardens,Team 2
+256,256,2012,KXIP,DC,Team 1,bat,Arun Jaitley Stadium,Team 2
+257,257,2012,KKR,MI,Team 2,field,Wankhede Stadium,Team 1
+258,258,2012,CSK,KXIP,Team 2,field,Himachal Pradesh Cricket Association Stadium,Team 2
+259,259,2012,RCB,DC,Team 2,field,Arun Jaitley Stadium,Team 1
+260,260,2012,RR,DC,Team 1,bat,Rajiv Gandhi International Stadium,Team 2
+261,261,2012,KXIP,DC,Team 2,field,Himachal Pradesh Cricket Association Stadium,Team 2
+262,262,2012,KKR,PWI,Team 1,bat,Maharashtra Cricket Association Stadium,Team 1
+263,263,2012,DC,RCB,Team 2,field,Rajiv Gandhi International Stadium,Team 1
+264,264,2012,RR,MI,Team 1,bat,Sawai Mansingh Stadium,Team 2
+265,265,2012,KKR,DC,Team 1,bat,Maharashtra Cricket Association Stadium,Team 1
+266,266,2012,CSK,MI,Team 2,field,M.Chinnaswamy Stadium,Team 1
+267,267,2012,CSK,DC,Team 2,field,MA Chidambaram Stadium,Team 1
+268,268,2012,CSK,KKR,Team 1,bat,MA Chidambaram Stadium,Team 1
+269,269,2013,DC,KKR,Team 2,field,Eden Gardens,Team 2
+270,270,2013,RCB,MI,Team 2,field,M.Chinnaswamy Stadium,Team 1
+271,271,2013,SRH,PWI,Team 2,field,Rajiv Gandhi International Stadium,Team 1
+272,272,2013,RR,DC,Team 1,bat,Arun Jaitley Stadium,Team 1
+273,273,2013,MI,CSK,Team 1,bat,MA Chidambaram Stadium,Team 1
+274,274,2013,PWI,KXIP,Team 1,bat,Maharashtra Cricket Association Stadium,Team 2
+275,275,2013,RCB,SRH,Team 1,bat,Rajiv Gandhi International Stadium,Team 2
+276,276,2013,RR,KKR,Team 2,field,Sawai Mansingh Stadium,Team 1
+277,277,2013,SRH,RCB,Team 1,bat,M.Chinnaswamy Stadium,Team 2
+278,278,2013,MI,DC,Team 1,bat,Wankhede Stadium,Team 1
+279,279,2013,KXIP,CSK,Team 2,field,Punjab Cricket Association IS Bindra Stadium,Team 2
+280,280,2013,KKR,RCB,Team 2,field,M.Chinnaswamy Stadium,Team 2
+281,281,2013,RR,PWI,Team 1,bat,Maharashtra Cricket Association Stadium,Team 2
+282,282,2013,DC,SRH,Team 1,bat,Arun Jaitley Stadium,Team 2
+283,283,2013,MI,PWI,Team 1,bat,Wankhede Stadium,Team 1
+284,284,2013,RCB,CSK,Team 2,field,MA Chidambaram Stadium,Team 2
+285,285,2013,KKR,SRH,Team 1,bat,Eden Gardens,Team 1
+286,286,2013,KXIP,RR,Team 2,field,Sawai Mansingh Stadium,Team 2
+287,287,2013,PWI,CSK,Team 1,bat,MA Chidambaram Stadium,Team 1
+288,288,2013,KXIP,KKR,Team 2,field,Punjab Cricket Association IS Bindra Stadium,Team 1
+289,289,2013,DC,RCB,Team 2,field,M.Chinnaswamy Stadium,Team 2
+290,290,2013,SRH,PWI,Team 2,field,Maharashtra Cricket Association Stadium,Team 1
+291,291,2013,RR,MI,Team 1,bat,Sawai Mansingh Stadium,Team 1
+292,292,2013,CSK,DC,Team 1,bat,Arun Jaitley Stadium,Team 1
+293,293,2013,KXIP,SRH,Team 1,bat,Rajiv Gandhi International Stadium,Team 2
+294,294,2013,KKR,CSK,Team 1,bat,Eden Gardens,Team 2
+295,295,2013,RR,RCB,Team 2,field,M.Chinnaswamy Stadium,Team 2
+296,296,2013,MI,DC,Team 1,bat,Arun Jaitley Stadium,Team 2
+297,297,2013,PWI,KXIP,Team 2,field,Punjab Cricket Association IS Bindra Stadium,Team 2
+298,298,2013,RR,CSK,Team 1,bat,MA Chidambaram Stadium,Team 2
+299,299,2013,RCB,PWI,Team 2,field,M.Chinnaswamy Stadium,Team 1
+300,300,2013,DC,KXIP,Team 2,field,Arun Jaitley Stadium,Team 2
+301,301,2013,KKR,MI,Team 1,bat,Eden Gardens,Team 2
+302,302,2013,SRH,CSK,Team 1,bat,MA Chidambaram Stadium,Team 2
+303,303,2013,KXIP,KKR,Team 1,bat,Eden Gardens,Team 2
+304,304,2013,SRH,RR,Team 1,bat,Sawai Mansingh Stadium,Team 2
+305,305,2013,MI,RCB,Team 1,bat,Wankhede Stadium,Team 1
+306,306,2013,CSK,KKR,Team 2,field,MA Chidambaram Stadium,Team 1
+307,307,2013,DC,PWI,Team 2,field,Shaheed Veer Narayan Singh International Stadium,Team 1
+308,308,2013,RCB,RR,Team 2,field,Sawai Mansingh Stadium,Team 2
+309,309,2013,MI,KXIP,Team 1,bat,Wankhede Stadium,Team 1
+310,310,2013,CSK,PWI,Team 1,bat,Maharashtra Cricket Association Stadium,Team 1
+311,311,2013,MI,SRH,Team 1,bat,Rajiv Gandhi International Stadium,Team 2
+312,312,2013,KKR,DC,Team 1,bat,Shaheed Veer Narayan Singh International Stadium,Team 2
+313,313,2013,CSK,KXIP,Team 1,bat,MA Chidambaram Stadium,Team 1
+314,314,2013,RCB,PWI,Team 1,bat,Maharashtra Cricket Association Stadium,Team 1
+315,315,2013,RR,KKR,Team 1,bat,Eden Gardens,Team 2
+316,316,2013,DC,SRH,Team 1,bat,Rajiv Gandhi International Stadium,Team 2
+317,317,2013,MI,CSK,Team 1,bat,Wankhede Stadium,Team 1
+318,318,2013,PWI,RR,Team 1,bat,Sawai Mansingh Stadium,Team 2
+319,319,2013,RCB,KXIP,Team 2,field,Punjab Cricket Association IS Bindra Stadium,Team 2
+320,320,2013,DC,RR,Team 1,bat,Sawai Mansingh Stadium,Team 2
+321,321,2013,MI,KKR,Team 1,bat,Wankhede Stadium,Team 1
+322,322,2013,CSK,SRH,Team 2,field,Rajiv Gandhi International Stadium,Team 1
+323,323,2013,KXIP,RR,Team 2,field,Punjab Cricket Association IS Bindra Stadium,Team 2
+324,324,2013,KKR,PWI,Team 1,bat,Maharashtra Cricket Association Stadium,Team 1
+325,325,2013,RCB,DC,Team 2,field,Arun Jaitley Stadium,Team 1
+326,326,2013,PWI,MI,Team 1,bat,Maharashtra Cricket Association Stadium,Team 2
+327,327,2013,SRH,KXIP,Team 2,field,Punjab Cricket Association IS Bindra Stadium,Team 1
+328,328,2013,RCB,KKR,Team 2,field,JSCA International Stadium Complex,Team 2
+329,329,2013,CSK,RR,Team 2,field,Sawai Mansingh Stadium,Team 2
+330,330,2013,SRH,MI,Team 1,bat,Wankhede Stadium,Team 2
+331,331,2013,RCB,KXIP,Team 2,field,M.Chinnaswamy Stadium,Team 2
+332,332,2013,CSK,DC,Team 1,bat,MA Chidambaram Stadium,Team 1
+333,333,2013,PWI,KKR,Team 2,field,JSCA International Stadium Complex,Team 1
+334,334,2013,MI,RR,Team 2,field,Wankhede Stadium,Team 1
+335,335,2013,KXIP,DC,Team 2,field,Himachal Pradesh Cricket Association Stadium,Team 1
+336,336,2013,SRH,RR,Team 1,bat,Rajiv Gandhi International Stadium,Team 1
+337,337,2013,KXIP,MI,Team 2,field,Himachal Pradesh Cricket Association Stadium,Team 1
+338,338,2013,RCB,CSK,Team 2,field,M.Chinnaswamy Stadium,Team 1
+339,339,2013,PWI,DC,Team 1,bat,Maharashtra Cricket Association Stadium,Team 1
+340,340,2013,KKR,SRH,Team 1,bat,Rajiv Gandhi International Stadium,Team 2
+341,341,2013,CSK,MI,Team 1,bat,Arun Jaitley Stadium,Team 1
+342,342,2013,SRH,RR,Team 1,bat,Arun Jaitley Stadium,Team 1
+343,343,2013,RR,MI,Team 1,bat,Eden Gardens,Team 1
+344,344,2013,MI,CSK,Team 1,bat,Eden Gardens,Team 1
+345,345,2014,KKR,MI,Team 1,bat,Sheikh Zayed Stadium,Team 1
+346,346,2014,DC,RCB,Team 2,field,Sharjah Cricket Stadium,Team 2
+347,347,2014,CSK,KXIP,Team 1,bat,Sheikh Zayed Stadium,Team 2
+348,348,2014,SRH,RR,Team 2,field,Sheikh Zayed Stadium,Team 2
+349,349,2014,MI,RCB,Team 2,field,Dubai International Cricket Stadium,Team 2
+350,350,2014,KKR,DC,Team 1,bat,Dubai International Cricket Stadium,Team 2
+351,351,2014,RR,KXIP,Team 2,field,Sharjah Cricket Stadium,Team 2
+352,352,2014,CSK,DC,Team 1,bat,Sheikh Zayed Stadium,Team 1
+353,353,2014,KXIP,SRH,Team 2,field,Sharjah Cricket Stadium,Team 1
+354,354,2014,CSK,RR,Team 2,field,Dubai International Cricket Stadium,Team 1
+355,355,2014,KKR,RCB,Team 2,field,Sharjah Cricket Stadium,Team 1
+356,356,2014,SRH,DC,Team 1,bat,Dubai International Cricket Stadium,Team 1
+357,357,2014,MI,CSK,Team 1,bat,Dubai International Cricket Stadium,Team 2
+358,358,2014,RCB,RR,Team 2,field,Sheikh Zayed Stadium,Team 2
+359,359,2014,KXIP,KKR,Team 2,field,Sheikh Zayed Stadium,Team 1
+360,360,2014,MI,DC,Team 1,bat,Sharjah Cricket Stadium,Team 2
+361,361,2014,SRH,CSK,Team 1,bat,Sharjah Cricket Stadium,Team 2
+362,362,2014,RCB,KXIP,Team 2,field,Dubai International Cricket Stadium,Team 2
+363,363,2014,RR,KKR,Team 1,bat,Sheikh Zayed Stadium,Team 1
+364,364,2014,SRH,MI,Team 2,field,Dubai International Cricket Stadium,Team 1
+365,365,2014,CSK,KKR,Team 1,bat,JSCA International Stadium Complex,Team 1
+366,366,2014,KXIP,MI,Team 1,bat,Wankhede Stadium,Team 2
+367,367,2014,DC,RR,Team 2,field,Arun Jaitley Stadium,Team 2
+368,368,2014,SRH,RCB,Team 2,field,M.Chinnaswamy Stadium,Team 2
+369,369,2014,RR,KKR,Team 2,field,Sardar Patel (Gujarat) Stadium,Team 1
+370,370,2014,DC,CSK,Team 2,field,Arun Jaitley Stadium,Team 2
+371,371,2014,MI,RCB,Team 2,field,Wankhede Stadium,Team 1
+372,372,2014,DC,KKR,Team 1,bat,Arun Jaitley Stadium,Team 2
+373,373,2014,KXIP,CSK,Team 2,field,Barabati Stadium,Team 1
+374,374,2014,SRH,RR,Team 2,field,Sardar Patel (Gujarat) Stadium,Team 1
+375,375,2014,KXIP,RCB,Team 2,field,M.Chinnaswamy Stadium,Team 1
+376,376,2014,DC,SRH,Team 2,field,Arun Jaitley Stadium,Team 2
+377,377,2014,MI,CSK,Team 2,field,Wankhede Stadium,Team 2
+378,378,2014,KXIP,KKR,Team 2,field,Barabati Stadium,Team 2
+379,379,2014,RCB,RR,Team 1,bat,M.Chinnaswamy Stadium,Team 2
+380,380,2014,SRH,MI,Team 1,bat,Rajiv Gandhi International Stadium,Team 2
+381,381,2014,RR,CSK,Team 1,bat,JSCA International Stadium Complex,Team 2
+382,382,2014,RCB,DC,Team 2,field,M.Chinnaswamy Stadium,Team 1
+383,383,2014,SRH,KXIP,Team 2,field,Rajiv Gandhi International Stadium,Team 2
+384,384,2014,MI,KKR,Team 2,field,Barabati Stadium,Team 2
+385,385,2014,RR,DC,Team 2,field,Sardar Patel (Gujarat) Stadium,Team 1
+386,386,2014,CSK,RCB,Team 1,bat,JSCA International Stadium Complex,Team 2
+387,387,2014,SRH,KKR,Team 1,bat,Rajiv Gandhi International Stadium,Team 2
+388,388,2014,MI,RR,Team 1,bat,Sardar Patel (Gujarat) Stadium,Team 1
+389,389,2014,DC,KXIP,Team 2,field,Arun Jaitley Stadium,Team 2
+390,390,2014,RCB,SRH,Team 1,bat,Rajiv Gandhi International Stadium,Team 2
+391,391,2014,CSK,KKR,Team 2,field,Eden Gardens,Team 2
+392,392,2014,KXIP,MI,Team 2,field,Punjab Cricket Association IS Bindra Stadium,Team 2
+393,393,2014,KKR,RCB,Team 2,field,Eden Gardens,Team 1
+394,394,2014,CSK,SRH,Team 2,field,JSCA International Stadium Complex,Team 2
+395,395,2014,MI,DC,Team 2,field,Wankhede Stadium,Team 1
+396,396,2014,KXIP,RR,Team 2,field,Punjab Cricket Association IS Bindra Stadium,Team 1
+397,397,2014,RCB,CSK,Team 2,field,M.Chinnaswamy Stadium,Team 2
+398,398,2014,SRH,KKR,Team 2,field,Eden Gardens,Team 2
+399,399,2014,DC,KXIP,Team 2,field,Punjab Cricket Association IS Bindra Stadium,Team 2
+400,400,2014,RR,MI,Team 2,field,Wankhede Stadium,Team 2
+401,401,2014,KKR,KXIP,Team 2,field,Eden Gardens,Team 1
+402,402,2014,MI,CSK,Team 2,field,Brabourne Stadium,Team 1
+403,403,2014,KXIP,CSK,Team 2,field,Wankhede Stadium,Team 1
+404,404,2014,KXIP,KKR,Team 2,field,M.Chinnaswamy Stadium,Team 1
+405,405,2015,MI,KKR,Team 2,field,Eden Gardens,Team 2
+406,406,2015,CSK,DC,Team 2,field,MA Chidambaram Stadium,Team 1
+407,407,2015,RR,KXIP,Team 2,field,Maharashtra Cricket Association Stadium,Team 1
+408,408,2015,CSK,SRH,Team 1,bat,MA Chidambaram Stadium,Team 1
+409,409,2015,KKR,RCB,Team 2,field,Eden Gardens,Team 2
+410,410,2015,DC,RR,Team 2,field,Arun Jaitley Stadium,Team 2
+411,411,2015,KXIP,MI,Team 2,field,Wankhede Stadium,Team 1
+412,412,2015,RCB,SRH,Team 2,field,M.Chinnaswamy Stadium,Team 2
+413,413,2015,MI,RR,Team 1,bat,Sardar Patel (Gujarat) Stadium,Team 2
+414,414,2015,KXIP,DC,Team 1,bat,Maharashtra Cricket Association Stadium,Team 2
+415,415,2015,SRH,RR,Team 2,field,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Team 2
+416,416,2015,MI,CSK,Team 1,bat,Wankhede Stadium,Team 2
+417,417,2015,DC,SRH,Team 1,bat,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Team 1
+418,418,2015,KXIP,KKR,Team 2,field,Maharashtra Cricket Association Stadium,Team 2
+419,419,2015,CSK,RR,Team 1,bat,Sardar Patel (Gujarat) Stadium,Team 2
+420,420,2015,MI,RCB,Team 2,field,M.Chinnaswamy Stadium,Team 1
+421,421,2015,DC,KKR,Team 2,field,Arun Jaitley Stadium,Team 2
+422,422,2015,RR,KXIP,Team 2,field,Sardar Patel (Gujarat) Stadium,Team 2
+423,423,2015,SRH,KKR,Team 2,field,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Team 1
+424,424,2015,CSK,RCB,Team 2,field,M.Chinnaswamy Stadium,Team 1
+425,425,2015,DC,MI,Team 2,field,Arun Jaitley Stadium,Team 1
+426,426,2015,RR,RCB,Team 2,field,Sardar Patel (Gujarat) Stadium,Team 2
+427,427,2015,MI,SRH,Team 1,bat,Wankhede Stadium,Team 1
+428,428,2015,CSK,KXIP,Team 1,bat,MA Chidambaram Stadium,Team 1
+429,429,2015,KKR,RR,none,none,Eden Gardens,Team 1
+430,430,2015,DC,RCB,Team 2,field,Arun Jaitley Stadium,Team 2
+431,431,2015,SRH,KXIP,Team 2,field,Punjab Cricket Association IS Bindra Stadium,Team 1
+432,432,2015,CSK,KKR,Team 2,field,MA Chidambaram Stadium,Team 1
+433,433,2015,RCB,RR,Team 2,field,M.Chinnaswamy Stadium,Team 1
+434,434,2015,CSK,KKR,Team 2,field,Eden Gardens,Team 2
+435,435,2015,KXIP,DC,Team 2,field,Arun Jaitley Stadium,Team 2
+436,436,2015,MI,RR,Team 2,field,Wankhede Stadium,Team 1
+437,437,2015,KKR,RCB,Team 2,field,M.Chinnaswamy Stadium,Team 2
+438,438,2015,SRH,CSK,Team 2,field,Rajiv Gandhi International Stadium,Team 1
+439,439,2015,MI,KXIP,Team 1,bat,Punjab Cricket Association IS Bindra Stadium,Team 1
+440,440,2015,RR,DC,Team 2,field,Brabourne Stadium,Team 1
+441,441,2015,CSK,RCB,Team 1,bat,MA Chidambaram Stadium,Team 1
+442,442,2015,KKR,SRH,Team 2,field,Eden Gardens,Team 1
+443,443,2015,DC,MI,Team 1,bat,Wankhede Stadium,Team 2
+444,444,2015,RCB,KXIP,Team 2,field,M.Chinnaswamy Stadium,Team 1
+445,445,2015,SRH,RR,Team 2,field,Brabourne Stadium,Team 1
+446,446,2015,KKR,DC,Team 1,bat,Eden Gardens,Team 1
+447,447,2015,CSK,MI,Team 1,bat,MA Chidambaram Stadium,Team 2
+448,448,2015,KXIP,KKR,Team 1,bat,Eden Gardens,Team 2
+449,449,2015,SRH,DC,Team 1,bat,Shaheed Veer Narayan Singh International Stadium,Team 1
+450,450,2015,RCB,MI,Team 1,bat,Wankhede Stadium,Team 1
+451,451,2015,CSK,RR,Team 1,bat,MA Chidambaram Stadium,Team 1
+452,452,2015,SRH,KXIP,Team 1,bat,Rajiv Gandhi International Stadium,Team 1
+453,453,2015,CSK,DC,Team 1,bat,Shaheed Veer Narayan Singh International Stadium,Team 2
+454,454,2015,KXIP,RCB,Team 2,field,Punjab Cricket Association IS Bindra Stadium,Team 1
+455,455,2015,MI,KKR,Team 2,field,Wankhede Stadium,Team 1
+456,456,2015,SRH,RCB,Team 1,bat,Rajiv Gandhi International Stadium,Team 2
+457,457,2015,KXIP,CSK,Team 1,bat,Punjab Cricket Association IS Bindra Stadium,Team 2
+458,458,2015,RR,KKR,Team 1,bat,Brabourne Stadium,Team 1
+459,459,2015,DC,RCB,Team 2,field,M.Chinnaswamy Stadium,Team 2
+460,460,2015,SRH,MI,Team 1,bat,Rajiv Gandhi International Stadium,Team 2
+461,461,2015,MI,CSK,Team 1,bat,Wankhede Stadium,Team 1
+462,462,2015,RCB,RR,Team 1,bat,Maharashtra Cricket Association Stadium,Team 1
+463,463,2015,RCB,CSK,Team 2,field,JSCA International Stadium Complex,Team 1
+464,464,2015,MI,CSK,Team 2,field,Eden Gardens,Team 1
+465,465,2016,MI,RPS,Team 1,bat,Wankhede Stadium,Team 2
+466,466,2016,DC,KKR,Team 2,field,Eden Gardens,Team 2
+467,467,2016,KXIP,GL,Team 2,field,Punjab Cricket Association IS Bindra Stadium,Team 2
+468,468,2016,RCB,SRH,Team 2,field,M.Chinnaswamy Stadium,Team 1
+469,469,2016,KKR,MI,Team 2,field,Eden Gardens,Team 2
+470,470,2016,RPS,GL,Team 1,bat,Saurashtra Cricket Association Stadium,Team 2
+471,471,2016,KXIP,DC,Team 2,field,Arun Jaitley Stadium,Team 2
+472,472,2016,SRH,KKR,Team 1,bat,Rajiv Gandhi International Stadium,Team 2
+473,473,2016,MI,GL,Team 2,field,Wankhede Stadium,Team 2
+474,474,2016,RPS,KXIP,Team 1,bat,Punjab Cricket Association IS Bindra Stadium,Team 2
+475,475,2016,RCB,DC,Team 2,field,M.Chinnaswamy Stadium,Team 2
+476,476,2016,MI,SRH,Team 2,field,Rajiv Gandhi International Stadium,Team 2
+477,477,2016,KXIP,KKR,Team 2,field,Punjab Cricket Association IS Bindra Stadium,Team 2
+478,478,2016,RCB,MI,Team 2,field,Wankhede Stadium,Team 2
+479,479,2016,GL,SRH,Team 2,field,Saurashtra Cricket Association Stadium,Team 2
+480,480,2016,RCB,RPS,Team 2,field,Maharashtra Cricket Association Stadium,Team 1
+481,481,2016,DC,MI,Team 2,field,Arun Jaitley Stadium,Team 1
+482,482,2016,KXIP,SRH,Team 2,field,Rajiv Gandhi International Stadium,Team 2
+483,483,2016,RCB,GL,Team 1,bat,Saurashtra Cricket Association Stadium,Team 2
+484,484,2016,RPS,KKR,Team 2,field,Maharashtra Cricket Association Stadium,Team 2
+485,485,2016,MI,KXIP,Team 2,field,Punjab Cricket Association IS Bindra Stadium,Team 1
+486,486,2016,SRH,RPS,Team 2,field,Rajiv Gandhi International Stadium,Team 2
+487,487,2016,GL,DC,Team 2,field,Arun Jaitley Stadium,Team 1
+488,488,2016,KKR,MI,Team 2,field,Wankhede Stadium,Team 2
+489,489,2016,RPS,GL,Team 2,field,Maharashtra Cricket Association Stadium,Team 2
+490,490,2016,DC,KKR,Team 2,field,Arun Jaitley Stadium,Team 1
+491,491,2016,SRH,RCB,Team 2,field,Rajiv Gandhi International Stadium,Team 1
+492,492,2016,KXIP,GL,Team 2,field,Saurashtra Cricket Association Stadium,Team 1
+493,493,2016,RPS,MI,Team 2,field,Maharashtra Cricket Association Stadium,Team 2
+494,494,2016,RCB,KKR,Team 2,field,M.Chinnaswamy Stadium,Team 2
+495,495,2016,GL,DC,Team 2,field,Saurashtra Cricket Association Stadium,Team 2
+496,496,2016,KKR,KXIP,Team 2,field,Eden Gardens,Team 1
+497,497,2016,DC,RPS,Team 2,field,Arun Jaitley Stadium,Team 2
+498,498,2016,GL,SRH,Team 2,field,Rajiv Gandhi International Stadium,Team 2
+499,499,2016,RPS,RCB,Team 2,field,M.Chinnaswamy Stadium,Team 2
+500,500,2016,KXIP,DC,Team 2,field,Punjab Cricket Association IS Bindra Stadium,Team 1
+501,501,2016,SRH,MI,Team 2,field,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Team 1
+502,502,2016,KKR,GL,Team 2,field,Eden Gardens,Team 2
+503,503,2016,RCB,KXIP,Team 2,field,Punjab Cricket Association IS Bindra Stadium,Team 1
+504,504,2016,SRH,RPS,Team 1,bat,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Team 1
+505,505,2016,RCB,MI,Team 2,field,M.Chinnaswamy Stadium,Team 2
+506,506,2016,SRH,DC,Team 2,field,Rajiv Gandhi International Stadium,Team 2
+507,507,2016,MI,KXIP,Team 1,bat,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Team 2
+508,508,2016,RCB,GL,Team 2,field,M.Chinnaswamy Stadium,Team 1
+509,509,2016,RPS,KKR,Team 1,bat,Eden Gardens,Team 2
+510,510,2016,KXIP,SRH,Team 1,bat,Punjab Cricket Association IS Bindra Stadium,Team 2
+511,511,2016,MI,DC,Team 2,field,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Team 1
+512,512,2016,KKR,RCB,Team 2,field,Eden Gardens,Team 2
+513,513,2016,DC,RPS,Team 2,field,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Team 2
+514,514,2016,RCB,KXIP,Team 2,field,M.Chinnaswamy Stadium,Team 1
+515,515,2016,KKR,GL,Team 2,field,Green Park,Team 2
+516,516,2016,SRH,DC,Team 2,field,Shaheed Veer Narayan Singh International Stadium,Team 2
+517,517,2016,KXIP,RPS,Team 1,bat,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Team 2
+518,518,2016,MI,GL,Team 2,field,Green Park,Team 2
+519,519,2016,KKR,SRH,Team 2,field,Eden Gardens,Team 1
+520,520,2016,DC,RCB,Team 2,field,Shaheed Veer Narayan Singh International Stadium,Team 2
+521,521,2016,GL,RCB,Team 2,field,M.Chinnaswamy Stadium,Team 1
+522,522,2016,SRH,KKR,Team 2,field,Arun Jaitley Stadium,Team 1
+523,523,2016,GL,SRH,Team 2,field,Arun Jaitley Stadium,Team 1
+524,524,2016,SRH,RCB,Team 1,bat,M.Chinnaswamy Stadium,Team 1
+525,525,2017,SRH,RCB,Team 2,field,Rajiv Gandhi International Stadium,Team 1
+526,526,2017,MI,RPS,Team 2,field,Maharashtra Cricket Association Stadium,Team 2
+527,527,2017,GL,KKR,Team 2,field,Saurashtra Cricket Association Stadium,Team 2
+528,528,2017,RPS,KXIP,Team 2,field,Holkar Cricket Stadium,Team 2
+529,529,2017,RCB,DC,Team 1,bat,M.Chinnaswamy Stadium,Team 1
+530,530,2017,GL,SRH,Team 2,field,Rajiv Gandhi International Stadium,Team 2
+531,531,2017,KKR,MI,Team 2,field,Wankhede Stadium,Team 2
+532,532,2017,RCB,KXIP,Team 1,bat,Holkar Cricket Stadium,Team 2
+533,533,2017,DC,RPS,Team 2,field,Maharashtra Cricket Association Stadium,Team 1
+534,534,2017,SRH,MI,Team 2,field,Wankhede Stadium,Team 2
+535,535,2017,KXIP,KKR,Team 2,field,Eden Gardens,Team 2
+536,536,2017,RCB,MI,Team 2,field,M.Chinnaswamy Stadium,Team 2
+537,537,2017,RPS,GL,Team 2,field,Saurashtra Cricket Association Stadium,Team 2
+538,538,2017,KKR,SRH,Team 2,field,Eden Gardens,Team 1
+539,539,2017,DC,KXIP,Team 1,bat,Arun Jaitley Stadium,Team 1
+540,540,2017,GL,MI,Team 2,field,Wankhede Stadium,Team 2
+541,541,2017,RPS,RCB,Team 2,field,M.Chinnaswamy Stadium,Team 1
+542,542,2017,DC,KKR,Team 1,bat,Arun Jaitley Stadium,Team 2
+543,543,2017,SRH,KXIP,Team 2,field,Rajiv Gandhi International Stadium,Team 1
+544,544,2017,RCB,GL,Team 2,field,Saurashtra Cricket Association Stadium,Team 1
+545,545,2017,SRH,DC,Team 1,bat,Rajiv Gandhi International Stadium,Team 1
+546,546,2017,KXIP,MI,Team 2,field,Holkar Cricket Stadium,Team 2
+547,547,2017,KKR,GL,Team 2,field,Eden Gardens,Team 2
+548,548,2017,SRH,RPS,Team 2,field,Maharashtra Cricket Association Stadium,Team 2
+549,549,2017,MI,DC,Team 2,field,Wankhede Stadium,Team 1
+550,550,2017,KXIP,GL,Team 2,field,Saurashtra Cricket Association Stadium,Team 1
+551,551,2017,KKR,RCB,Team 2,field,Eden Gardens,Team 1
+552,552,2017,RPS,MI,Team 2,field,Wankhede Stadium,Team 1
+553,553,2017,RCB,SRH,none,none,M.Chinnaswamy Stadium,Team 1
+554,554,2017,RPS,KKR,Team 2,field,Maharashtra Cricket Association Stadium,Team 2
+555,555,2017,RCB,GL,Team 2,field,M.Chinnaswamy Stadium,Team 2
+556,556,2017,DC,KKR,Team 2,field,Eden Gardens,Team 2
+557,557,2017,SRH,KXIP,Team 2,field,Punjab Cricket Association IS Bindra Stadium,Team 1
+558,558,2017,RPS,RCB,Team 2,field,Maharashtra Cricket Association Stadium,Team 1
+559,559,2017,GL,MI,Team 1,bat,Saurashtra Cricket Association Stadium,Team 2
+560,560,2017,DC,KXIP,Team 2,field,Punjab Cricket Association IS Bindra Stadium,Team 2
+561,561,2017,SRH,KKR,Team 2,field,Rajiv Gandhi International Stadium,Team 1
+562,562,2017,RCB,MI,Team 1,bat,Wankhede Stadium,Team 2
+563,563,2017,GL,RPS,Team 2,field,Maharashtra Cricket Association Stadium,Team 2
+564,564,2017,SRH,DC,Team 2,field,Arun Jaitley Stadium,Team 2
+565,565,2017,KKR,RPS,Team 2,field,Eden Gardens,Team 2
+566,566,2017,GL,DC,Team 2,field,Arun Jaitley Stadium,Team 2
+567,567,2017,KXIP,RCB,Team 2,field,M.Chinnaswamy Stadium,Team 1
+568,568,2017,RPS,SRH,Team 2,field,Rajiv Gandhi International Stadium,Team 1
+569,569,2017,MI,DC,Team 2,field,Arun Jaitley Stadium,Team 1
+570,570,2017,RCB,KKR,Team 2,field,M.Chinnaswamy Stadium,Team 2
+571,571,2017,KXIP,GL,Team 2,field,Punjab Cricket Association IS Bindra Stadium,Team 2
+572,572,2017,MI,SRH,Team 1,bat,Rajiv Gandhi International Stadium,Team 2
+573,573,2017,KXIP,KKR,Team 2,field,Punjab Cricket Association IS Bindra Stadium,Team 1
+574,574,2017,GL,DC,Team 2,field,Green Park,Team 2
+575,575,2017,KXIP,MI,Team 2,field,Wankhede Stadium,Team 1
+576,576,2017,DC,RPS,Team 1,bat,Arun Jaitley Stadium,Team 1
+577,577,2017,GL,SRH,Team 2,field,Green Park,Team 2
+578,578,2017,MI,KKR,Team 2,field,Eden Gardens,Team 1
+579,579,2017,KXIP,RPS,Team 2,field,Maharashtra Cricket Association Stadium,Team 2
+580,580,2017,RCB,DC,Team 1,bat,Arun Jaitley Stadium,Team 1
+581,581,2017,RPS,MI,Team 2,field,Wankhede Stadium,Team 1
+582,582,2017,SRH,KKR,Team 2,field,M.Chinnaswamy Stadium,Team 1
+583,583,2017,KKR,MI,Team 2,field,M.Chinnaswamy Stadium,Team 1
+584,584,2017,MI,RPS,Team 1,bat,Rajiv Gandhi International Stadium,Team 1
+585,585,2018,MI,CSK,Team 2,field,Wankhede Stadium,Team 2
+586,586,2018,DC,KXIP,Team 2,field,Punjab Cricket Association IS Bindra Stadium,Team 2
+587,587,2018,RCB,KKR,Team 2,field,Eden Gardens,Team 2
+588,588,2018,RR,SRH,Team 2,field,Rajiv Gandhi International Stadium,Team 2
+589,589,2018,KKR,CSK,Team 2,field,MA Chidambaram Stadium,Team 2
+590,590,2018,RR,DC,Team 2,field,Sawai Mansingh Stadium,Team 1
+591,591,2018,MI,SRH,Team 2,field,Rajiv Gandhi International Stadium,Team 2
+592,592,2018,KXIP,RCB,Team 2,field,M.Chinnaswamy Stadium,Team 2
+593,593,2018,MI,DC,Team 2,field,Wankhede Stadium,Team 2
+594,594,2018,KKR,SRH,Team 2,field,Eden Gardens,Team 2
+595,595,2018,RR,RCB,Team 2,field,M.Chinnaswamy Stadium,Team 1
+596,596,2018,KXIP,CSK,Team 2,field,Punjab Cricket Association IS Bindra Stadium,Team 1
+597,597,2018,KKR,DC,Team 2,field,Eden Gardens,Team 1
+598,598,2018,MI,RCB,Team 2,field,Wankhede Stadium,Team 1
+599,599,2018,RR,KKR,Team 2,field,Sawai Mansingh Stadium,Team 2
+600,600,2018,KXIP,SRH,Team 1,bat,Punjab Cricket Association IS Bindra Stadium,Team 1
+601,601,2018,CSK,RR,Team 2,field,Maharashtra Cricket Association Stadium,Team 1
+602,602,2018,KKR,KXIP,Team 2,field,Eden Gardens,Team 2
+603,603,2018,DC,RCB,Team 2,field,M.Chinnaswamy Stadium,Team 2
+604,604,2018,CSK,SRH,Team 2,field,Rajiv Gandhi International Stadium,Team 1
+605,605,2018,MI,RR,Team 1,bat,Sawai Mansingh Stadium,Team 2
+606,606,2018,KXIP,DC,Team 2,field,Arun Jaitley Stadium,Team 1
+607,607,2018,SRH,MI,Team 2,field,Wankhede Stadium,Team 1
+608,608,2018,RCB,CSK,Team 2,field,M.Chinnaswamy Stadium,Team 2
+609,609,2018,SRH,KXIP,Team 2,field,Rajiv Gandhi International Stadium,Team 1
+610,610,2018,DC,KKR,Team 2,field,Arun Jaitley Stadium,Team 1
+611,611,2018,CSK,MI,Team 2,field,Maharashtra Cricket Association Stadium,Team 2
+612,612,2018,SRH,RR,Team 1,bat,Sawai Mansingh Stadium,Team 1
+613,613,2018,RCB,KKR,Team 2,field,M.Chinnaswamy Stadium,Team 2
+614,614,2018,CSK,DC,Team 2,field,Maharashtra Cricket Association Stadium,Team 1
+615,615,2018,RCB,MI,Team 2,field,M.Chinnaswamy Stadium,Team 1
+616,616,2018,DC,RR,Team 2,field,Arun Jaitley Stadium,Team 1
+617,617,2018,CSK,KKR,Team 2,field,Eden Gardens,Team 2
+618,618,2018,KXIP,MI,Team 2,field,Holkar Cricket Stadium,Team 2
+619,619,2018,RCB,CSK,Team 2,field,Maharashtra Cricket Association Stadium,Team 2
+620,620,2018,DC,SRH,Team 1,bat,Rajiv Gandhi International Stadium,Team 2
+621,621,2018,MI,KKR,Team 2,field,Wankhede Stadium,Team 1
+622,622,2018,RR,KXIP,Team 2,field,Holkar Cricket Stadium,Team 2
+623,623,2018,SRH,RCB,Team 2,field,Rajiv Gandhi International Stadium,Team 1
+624,624,2018,RR,KXIP,Team 1,bat,Sawai Mansingh Stadium,Team 1
+625,625,2018,MI,KKR,Team 2,field,Eden Gardens,Team 1
+626,626,2018,DC,SRH,Team 1,bat,Arun Jaitley Stadium,Team 2
+627,627,2018,CSK,RR,Team 1,bat,Sawai Mansingh Stadium,Team 2
+628,628,2018,KKR,KXIP,Team 2,field,Holkar Cricket Stadium,Team 1
+629,629,2018,DC,RCB,Team 2,field,Arun Jaitley Stadium,Team 2
+630,630,2018,SRH,CSK,Team 2,field,Maharashtra Cricket Association Stadium,Team 2
+631,631,2018,MI,RR,Team 2,field,Wankhede Stadium,Team 2
+632,632,2018,KXIP,RCB,Team 2,field,Holkar Cricket Stadium,Team 2
+633,633,2018,RR,KKR,Team 2,field,Eden Gardens,Team 2
+634,634,2018,MI,KXIP,Team 2,field,Wankhede Stadium,Team 1
+635,635,2018,RCB,SRH,Team 2,field,M.Chinnaswamy Stadium,Team 1
+636,636,2018,DC,CSK,Team 2,field,Arun Jaitley Stadium,Team 1
+637,637,2018,RR,RCB,Team 1,bat,Sawai Mansingh Stadium,Team 1
+638,638,2018,SRH,KKR,Team 1,bat,Rajiv Gandhi International Stadium,Team 2
+639,639,2018,DC,MI,Team 1,bat,Arun Jaitley Stadium,Team 1
+640,640,2018,KXIP,CSK,Team 2,field,Maharashtra Cricket Association Stadium,Team 2
+641,641,2018,SRH,CSK,Team 2,field,Wankhede Stadium,Team 1
+642,642,2018,KKR,RR,Team 2,field,Eden Gardens,Team 1
+643,643,2018,SRH,KKR,Team 2,field,Eden Gardens,Team 1
+644,644,2018,SRH,CSK,Team 2,field,Wankhede Stadium,Team 1
+645,645,2019,RCB,CSK,Team 2,field,MA Chidambaram Stadium,Team 2
+646,646,2019,SRH,KKR,Team 2,field,Eden Gardens,Team 2
+647,647,2019,DC,MI,Team 2,field,Wankhede Stadium,Team 1
+648,648,2019,KXIP,RR,Team 2,field,Sawai Mansingh Stadium,Team 1
+649,649,2019,DC,CSK,Team 1,bat,Arun Jaitley Stadium,Team 2
+650,650,2019,KKR,KXIP,Team 2,field,Eden Gardens,Team 1
+651,651,2019,MI,RCB,Team 2,field,M.Chinnaswamy Stadium,Team 1
+652,652,2019,RR,SRH,Team 1,bat,Rajiv Gandhi International Stadium,Team 2
+653,653,2019,MI,KXIP,Team 2,field,Punjab Cricket Association IS Bindra Stadium,Team 2
+654,654,2019,KKR,DC,Team 2,field,Arun Jaitley Stadium,Team 2
+655,655,2019,SRH,RCB,Team 2,field,Rajiv Gandhi International Stadium,Team 1
+656,656,2019,CSK,RR,Team 2,field,MA Chidambaram Stadium,Team 1
+657,657,2019,KXIP,DC,Team 2,field,Punjab Cricket Association IS Bindra Stadium,Team 1
+658,658,2019,RCB,RR,Team 2,field,Sawai Mansingh Stadium,Team 2
+659,659,2019,MI,CSK,Team 2,field,Wankhede Stadium,Team 1
+660,660,2019,DC,SRH,Team 2,field,Arun Jaitley Stadium,Team 2
+661,661,2019,RCB,KKR,Team 2,field,M.Chinnaswamy Stadium,Team 2
+662,662,2019,CSK,KXIP,Team 1,bat,MA Chidambaram Stadium,Team 1
+663,663,2019,MI,SRH,Team 2,field,Rajiv Gandhi International Stadium,Team 1
+664,664,2019,RCB,DC,Team 2,field,M.Chinnaswamy Stadium,Team 2
+665,665,2019,RR,KKR,Team 2,field,Sawai Mansingh Stadium,Team 2
+666,666,2019,SRH,KXIP,Team 2,field,Punjab Cricket Association IS Bindra Stadium,Team 2
+667,667,2019,KKR,CSK,Team 2,field,MA Chidambaram Stadium,Team 2
+668,668,2019,KXIP,MI,Team 2,field,Wankhede Stadium,Team 2
+669,669,2019,RR,CSK,Team 2,field,Sawai Mansingh Stadium,Team 2
+670,670,2019,KKR,DC,Team 2,field,Eden Gardens,Team 2
+671,671,2019,MI,RR,Team 2,field,Wankhede Stadium,Team 2
+672,672,2019,KXIP,RCB,Team 2,field,Punjab Cricket Association IS Bindra Stadium,Team 2
+673,673,2019,KKR,CSK,Team 2,field,Eden Gardens,Team 2
+674,674,2019,DC,SRH,Team 2,field,Rajiv Gandhi International Stadium,Team 1
+675,675,2019,RCB,MI,Team 2,field,Wankhede Stadium,Team 2
+676,676,2019,KXIP,RR,Team 2,field,Punjab Cricket Association IS Bindra Stadium,Team 1
+677,677,2019,CSK,SRH,Team 1,bat,Rajiv Gandhi International Stadium,Team 2
+678,678,2019,MI,DC,Team 1,bat,Arun Jaitley Stadium,Team 1
+679,679,2019,RCB,KKR,Team 2,field,Eden Gardens,Team 1
+680,680,2019,MI,RR,Team 2,field,Sawai Mansingh Stadium,Team 2
+681,681,2019,KXIP,DC,Team 2,field,Arun Jaitley Stadium,Team 2
+682,682,2019,KKR,SRH,Team 2,field,Rajiv Gandhi International Stadium,Team 2
+683,683,2019,RCB,CSK,Team 2,field,M.Chinnaswamy Stadium,Team 1
+684,684,2019,RR,DC,Team 2,field,Sawai Mansingh Stadium,Team 2
+685,685,2019,SRH,CSK,Team 2,field,MA Chidambaram Stadium,Team 2
+686,686,2019,RCB,KXIP,Team 2,field,M.Chinnaswamy Stadium,Team 1
+687,687,2019,KKR,RR,Team 2,field,Eden Gardens,Team 2
+688,688,2019,MI,CSK,Team 2,field,MA Chidambaram Stadium,Team 1
+689,689,2019,SRH,RR,Team 2,field,Sawai Mansingh Stadium,Team 2
+690,690,2019,DC,RCB,Team 1,bat,Arun Jaitley Stadium,Team 1
+691,691,2019,KKR,MI,Team 2,field,Eden Gardens,Team 1
+692,692,2019,SRH,KXIP,Team 2,field,Rajiv Gandhi International Stadium,Team 1
+693,693,2019,RCB,RR,Team 2,field,M.Chinnaswamy Stadium,Team 1
+694,694,2019,CSK,DC,Team 2,field,MA Chidambaram Stadium,Team 1
+695,695,2019,MI,SRH,Team 1,bat,Wankhede Stadium,Team 1
+696,696,2019,KXIP,KKR,Team 2,field,Punjab Cricket Association IS Bindra Stadium,Team 2
+697,697,2019,RR,DC,Team 1,bat,Arun Jaitley Stadium,Team 2
+698,698,2019,SRH,RCB,Team 2,field,M.Chinnaswamy Stadium,Team 2
+699,699,2019,CSK,KXIP,Team 2,field,Punjab Cricket Association IS Bindra Stadium,Team 2
+700,700,2019,KKR,MI,Team 2,field,Wankhede Stadium,Team 2
+701,701,2019,CSK,MI,Team 1,bat,MA Chidambaram Stadium,Team 1
+702,702,2019,SRH,DC,Team 2,field,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Team 1
+703,703,2019,DC,CSK,Team 2,field,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,Team 1
+704,704,2019,MI,CSK,Team 1,bat,Rajiv Gandhi International Stadium,Team 1

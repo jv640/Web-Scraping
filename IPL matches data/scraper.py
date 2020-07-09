@@ -4,6 +4,7 @@ import html5lib as h5l
 import json
 import pandas as pd
 import os
+import time
 
 X = [['ID', 'Season', 'Home', 'Away', 'TossWin', 'TossDec', 'Venue', 'Winner']]
 
@@ -38,14 +39,16 @@ for page in webpages:
     # Iterating over Matches
     for link in links:
         # print(link['href'])
-        r = requests.get("https://stats.espncricinfo.com" + link['href'])
-        # print("https://stats.espncricinfo.com" + link['href'])
+        print("https://stats.espncricinfo.com" + link['href'])
+        r = requests.get("https://stats.espncricinfo.com:443" + link['href'])
+        # r = requests.get("https://stats.espncricinfo.com/ci/engine/match/733991.html")
         htmlContent = r.content
         soup = BeautifulSoup(htmlContent, 'html.parser')
 
         #finding Season
         Season_var = soup.find("a", class_ = "d-block").getText()
-        season = Season_var[21:]
+        season = Season_var[-4:]
+        # print(season)
 
         #finding Short Names of Teams
         teams = []
@@ -64,23 +67,27 @@ for page in webpages:
         # Toss Details
         toss_det = soup.find("td", text = "Toss").findNext("td").getText()
         toss_det = toss_det.split(',')
-        toss_det[0] = toss_det[0][:-1]
-        
-        # Toss Winner
-        toss_win = ""
-        # print(toss_det[0],len(toss_det[0]), full_team_names[0], len(full_team_names[0]))
-        if toss_det[0] == full_team_names[0]:
-            toss_win = toss_win + "Team 1"
-            # print(toss_det[0], full_team_names[0])
+        if len(toss_det) == 2:
+            toss_det[0] = toss_det[0][:-1]
+            
+            # Toss Winner
+            toss_win = ""
+            # print(toss_det[0],len(toss_det[0]), full_team_names[0], len(full_team_names[0]))
+            if toss_det[0] == full_team_names[0]:
+                toss_win = toss_win + "Team 1"
+                # print(toss_det[0], full_team_names[0])
+            else:
+                toss_win = toss_win + "Team 2"
+                # print(toss_det[0], full_team_names[1])
+            # print(toss_win)
+            
+            # Toss Decision
+            toss_array = toss_det[1].split()
+            toss_dec = toss_array[2]
+            # print(toss_dec)
         else:
-            toss_win = toss_win + "Team 2"
-            # print(toss_det[0], full_team_names[1])
-        # print(toss_win)
-        
-        # Toss Decision
-        toss_array = toss_det[1].split()
-        toss_dec = toss_array[2]
-        # print(toss_dec)
+            toss_win = "none"
+            toss_dec = "none"
 
         # Finding Ground
         full_place = soup.find("td", class_ = "match-venue").getText()
@@ -89,21 +96,34 @@ for page in webpages:
         
         # Finding Winner of match
         win = ""
-        winner_tag = soup.find("td", text = "Points").findNext("td").getText()
-        winner_arr = winner_tag.split(',')
-        # print(winner_arr[0])
-        # print(winner_arr[0][-1])
-        # print(winner_arr[0][:-2])
-        if winner_arr[0][-1] == 1:
-            win = win + "Tie"
-            # print(winner_arr, win)
-        elif winner_arr[0][:-2] == full_team_names[0]:
-            win = win + "Team 1"
-            # print(winner_arr[0][:-2], full_team_names[0], win)
+        winner_tag = soup.find("td", text = "Points")
+        
+        if winner_tag != None:
+            winner_tagg = winner_tag.findNext("td").getText()
+            winner_arr = winner_tagg.split(',')
+            # print(winner_arr[0])
+            # print(winner_arr[0][-1])
+            # print(winner_arr[0][:-2])
+            if winner_arr[0][-1] == 1:
+                win = win + "Tie"
+                # print(winner_arr, win)
+            elif winner_arr[0][:-2] == full_team_names[0]:
+                win = win + "Team 1"
+                # print(winner_arr[0][:-2], full_team_names[0], win)
+            else:
+                win = win + "Team 2"
+                # print(winner_arr[0][:-2], full_team_names[1], win)
+            # print(win)
         else:
-            win = win + "Team 2"
-            # print(winner_arr[0][:-2], full_team_names[1], win)
-        # print(win)
+            lose = soup.find("span", class_ = "score-run-gray")['title']
+            if lose != full_team_names:
+                win = win + "Team 1"
+            else:
+                win = win + "Team 2"
+
+            # print(lose)
+
+
         
         temp = [match_id, season, teams[0], teams[1], toss_win, toss_dec, stadium, win]
         del season, teams, toss_win, toss_dec, stadium, win
@@ -111,8 +131,9 @@ for page in webpages:
         X.append(temp)
         del temp
         print("Running", match_id-1)
-        
-
+        del soup
+        # time.sleep(2)
+    # del soup
 
 df = pd.DataFrame(X)
 df.to_csv('Matches.csv')
