@@ -1,10 +1,8 @@
-import requests 
-from bs4 import BeautifulSoup
-import html5lib as h5l
-count = 1
+x = "team 1"
+y = "team 2"
 
-r = requests.get("https://www.iplt20.com/archive/2018/01")
-print(r.history)
-htmlContent = r.content
-soup = BeautifulSoup(htmlContent, 'html.parser')
+swap = x
+x = y
+y = swap
 
+print(x, y)

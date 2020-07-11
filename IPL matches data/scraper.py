@@ -75,21 +75,29 @@ while error:
                 # Finding Ground
                 full_place = soup.find("td", class_ = "match-venue").getText()
                 places = full_place.split(',')
-                stadium = places[0]
+                stadium_name = places[0]
 
                 # Deciding Home Team And Away Team
-                homeTeam = ""
-                awayTeam = ""
+                # homeTeam = ""
+                # awayTeam = ""
+
                 found = False
-                home_teams =  stadiums[stadiums.Stadium == stadium_name]
+                home_teams = stadiums[stadiums.Stadium == stadium_name]
                 for home_team in home_teams["HomeTeams"]:
                     if full_team_names[0] == home_team:
-                        homeTeam = homeTeam + teams[0]
-                        awayTeam = awayTeam + teams[1]
+                        # homeTeam = homeTeam + teams[0]
+                        # awayTeam = awayTeam + teams[1]
                         found = True
+                
                 if found == False:
-                    homeTeam = homeTeam + teams[1]
-                    awayTeam = awayTeam + teams[0]
+                    # homeTeam = homeTeam + teams[1]
+                    # awayTeam = awayTeam + teams[0]
+                    swap = teams[0]
+                    teams[0] = teams[1]
+                    teams[1] = swap
+                    swap_full = full_team_names[0]
+                    full_team_names[0] = full_team_names[1]
+                    full_team_names[1] = swap_full
                 # print(homeTeam, awayTeam)
                 
                 # Toss Details
@@ -102,10 +110,10 @@ while error:
                     toss_win = ""
                     # print(toss_det[0],len(toss_det[0]), full_team_names[0], len(full_team_names[0]))
                     if toss_det[0] == full_team_names[0]:
-                        toss_win = toss_win + "Away"
+                        toss_win = toss_win + "Home"
                         # print(toss_det[0], full_team_names[0])
                     else:
-                        toss_win = toss_win + "Home"
+                        toss_win = toss_win + "Away"
                         # print(toss_det[0], full_team_names[1])
                     # print(toss_win)
                     
@@ -132,14 +140,14 @@ while error:
                         win = win + "Tie"
                         # print(winner_arr, win)
                     elif winner_arr[0][:-2] == full_team_names[0]:
-                        win = win + "Away"
+                        win = win + "Home"
                         # print(winner_arr[0][:-2], full_team_names[0], win)
                     else:
-                        win = win + "Home"
+                        win = win + "Away"
                         # print(winner_arr[0][:-2], full_team_names[1], win)
                 else:
                     lose = soup.find("span", class_ = "score-run-gray")['title']
-                    if lose != full_team_names:
+                    if lose != full_team_names[1]:
                         win = win + "Away"
                     else:
                         win = win + "Home"
@@ -181,12 +189,11 @@ while error:
                         del soup
                 # print(len(team_2))
                 
-                    
 
-                match = [season + "_" + match_id, season, homeTeam, awayTeam, toss_win, toss_dec, stadium, win]
-                print(match)
-                playing_11 = [season + "_" + match_id, season, team_1, team_2]
-                del season, teams, toss_win, toss_dec, stadium, win, team_1, team_2, homeTeam, awayTeam
+                match = [str(season) + "_" + str(match_id), season, teams[0], teams[1], toss_win, toss_dec, stadium_name, win]
+                # print(match)
+                playing_11 = [str(season) + "_" + str(match_id), season, team_1, team_2]
+                del season, teams, toss_win, toss_dec, stadium_name, win, team_1, team_2
                 match_id = match_id + 1
                 X.append(match)
                 playing.append(playing_11)
