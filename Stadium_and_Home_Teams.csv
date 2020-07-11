@@ -1,45 +1,23 @@
-,0,1
-0,Stadium,Home Teams
-1,"M. Chinnaswamy Stadium
-",['Royal Challengers Bangalore']
-2,"Punjab Cricket Association IS Bindra Stadium
-",['Kings XI Punjab']
-3,"Arun Jaitley Stadium
-",['Delhi Capitals']
-4,"Eden Gardens
-",['Kolkata Knight Riders']
-5,"Wankhede Stadium
-",['Mumbai Indians']
-6,"Sawai Mansingh Stadium
-",['Rajasthan Royals']
-7,"Rajiv Gandhi International Stadium
-","['Deccan Chargers', 'Sunrisers Hyderabad']"
-8,"MA Chidambaram Stadium
-",['Chennai Super Kings']
+0,Stadium,HomeTeams
+1,M.Chinnaswamy Stadium,['Royal Challengers Bangalore']
+2,Punjab Cricket Association IS Bindra Stadium,['Kings XI Punjab']
+3,Arun Jaitley Stadium,['Delhi Capitals']
+4,Eden Gardens,['Kolkata Knight Riders']
+5,Wankhede Stadium,['Mumbai Indians']
+6,Sawai Mansingh Stadium,['Rajasthan Royals']
+7,Rajiv Gandhi International Stadium,"['Deccan Chargers', 'Sunrisers Hyderabad']"
+8,MA Chidambaram Stadium,['Chennai Super Kings']
 9,Dr DY Patil Sports Academy,"['Mumbai Indians', 'Deccan Chargers', 'Pune Warriors']"
-10,"Brabourne Stadium
-","['Mumbai Indians', 'Rajasthan Royals']"
-11,"Barabati Stadium
-","['Deccan Chargers', 'Kings XI Punjab', 'Kolkata Knight Riders']"
-12,"Sardar Patel (Gujarat) Stadium
-",['Rajasthan Royals']
-13,"VCA Stadium
-",['Deccan Chargers']
-14,"Himachal Pradesh Cricket Association Stadium
-",['Kings XI Punjab']
-15,"Nehru Stadium
-",['Kochi Tuskers Kerala']
-16,"Holkar Cricket Stadium
-","['Kochi Tuskers Kerala', 'Kings XI Punjab']"
-17,"Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium
-","['Deccan Chargers', 'Sunrisers Hyderabad', 'Mumbai Indians', 'Rising Pune Supergiant']"
-18,"Maharashtra Cricket Association Stadium
-","['Pune Warriors', 'Kings XI Punjab', 'Rising Pune Supergiant', 'Chennai Super Kings']"
-19,"Shaheed Veer Narayan Singh International Stadium
-",['Delhi Daredevils']
-20,"JSCA International Stadium Complex
-","['Kolkata Knight Riders', 'Chennai Super Kings']"
-21,"Saurashtra Cricket Association Stadium
-",['Gujarat Lions']
-22,"Green Park
-",['Gujarat Lions']
+10,Brabourne Stadium,"['Mumbai Indians', 'Rajasthan Royals']"
+11,Barabati Stadium,"['Deccan Chargers', 'Kings XI Punjab', 'Kolkata Knight Riders']"
+12,Sardar Patel (Gujarat) Stadium,['Rajasthan Royals']
+13,VCA Stadium,['Deccan Chargers']
+14,Himachal Pradesh Cricket Association Stadium,['Kings XI Punjab']
+15,Nehru Stadium,['Kochi Tuskers Kerala']
+16,Holkar Cricket Stadium,"['Kochi Tuskers Kerala', 'Kings XI Punjab']"
+17,Dr. Y.S. Rajasekhara Reddy ACA-VDCA Cricket Stadium,"['Deccan Chargers', 'Sunrisers Hyderabad', 'Mumbai Indians', 'Rising Pune Supergiant']"
+18,Maharashtra Cricket Association Stadium,"['Pune Warriors', 'Kings XI Punjab', 'Rising Pune Supergiant', 'Chennai Super Kings']"
+19,Shaheed Veer Narayan Singh International Stadium,['Delhi Daredevils']
+20,JSCA International Stadium Complex,"['Kolkata Knight Riders', 'Chennai Super Kings']"
+21,Saurashtra Cricket Association Stadium,['Gujarat Lions']
+22,Green Park,['Gujarat Lions']

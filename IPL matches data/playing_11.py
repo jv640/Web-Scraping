@@ -8,6 +8,8 @@ import time
 
 X = [['ID', 'Season', 'Home', 'Away', 'TossWin', 'TossDec', 'Venue', 'Winner']]
 playing = [['ID', 'Season', 'Team 1', 'Team 2']]
+stadiums = pd.read_csv("Stadium_and_Home_Teams.csv")
+
 
 webpages = ["https://stats.espncricinfo.com/ci/engine/records/team/match_results.html?id=2007/08;trophy=117;type=season",
             "https://stats.espncricinfo.com/ci/engine/records/team/match_results.html?id=2009;trophy=117;type=season",
@@ -93,7 +95,24 @@ for page in webpages:
         # Finding Ground
         full_place = soup.find("td", class_ = "match-venue").getText()
         places = full_place.split(',')
-        stadium = places[0]
+        stadium_name = places[0]
+
+        # print(stadiums['HomeTeams'])
+        homeTeam = ""
+        awayTeam = ""
+        found = False
+        home_teams =  stadiums[stadiums.Stadium == stadium_name]
+        for home_team in home_teams["HomeTeams"]:
+            if full_team_names[0] == home_team:
+                homeTeam = homeTeam + full_team_names[0]
+                awayTeam = awayTeam + full_team_names[1]
+                found = True
+        if found == False:
+            homeTeam = homeTeam + full_team_names[1]
+            awayTeam = awayTeam + full_team_names[0]
+        print(homeTeam, awayTeam)
+
+        # print(homeTeam)
         
         # Finding Winner of match
         win = ""
@@ -159,9 +178,9 @@ for page in webpages:
         
             
 
-        match = [season, teams[0], teams[1], toss_win, toss_dec, stadium, win]
+        match = [season, teams[0], teams[1], toss_win, toss_dec, stadium_name, win]
         playing_11 = [season, team_1, team_2]
-        del season, teams, toss_win, toss_dec, stadium, win, team_1, team_2
+        del season, teams, toss_win, toss_dec, stadium_name, win, team_1, team_2
         match_id = match_id + 1
         X.append(match)
         playing.append(playing_11)

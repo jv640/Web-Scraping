@@ -47,7 +47,7 @@ while error:
                 match_id = 1
                 # print(link['href'])
                 print("https://stats.espncricinfo.com" + link['href'])
-                r = requests.get("https://stats.espncricinfo.com:443" + link['href'])
+                r = requests.get("https://stats.espncricinfo.com" + link['href'])
                 # r = requests.get("https://stats.espncricinfo.com/ci/engine/match/336030.html")
                 htmlContent = r.content
                 soup = BeautifulSoup(htmlContent, 'html.parser')
@@ -57,6 +57,7 @@ while error:
                 season = Season_var[-4:]
                 # print(season)
 
+                
                 #finding Short Names of Teams
                 teams = []
                 T = soup.find_all("a", class_ = "team-name")
@@ -71,6 +72,26 @@ while error:
                     full_team_names.append(span['title'])
                 # print(full_team_names)
 
+                # Finding Ground
+                full_place = soup.find("td", class_ = "match-venue").getText()
+                places = full_place.split(',')
+                stadium = places[0]
+
+                # Deciding Home Team And Away Team
+                homeTeam = ""
+                awayTeam = ""
+                found = False
+                home_teams =  stadiums[stadiums.Stadium == stadium_name]
+                for home_team in home_teams["HomeTeams"]:
+                    if full_team_names[0] == home_team:
+                        homeTeam = homeTeam + teams[0]
+                        awayTeam = awayTeam + teams[1]
+                        found = True
+                if found == False:
+                    homeTeam = homeTeam + teams[1]
+                    awayTeam = awayTeam + teams[0]
+                # print(homeTeam, awayTeam)
+                
                 # Toss Details
                 toss_det = soup.find("td", text = "Toss").findNext("td").getText()
                 toss_det = toss_det.split(',')
@@ -81,10 +102,10 @@ while error:
                     toss_win = ""
                     # print(toss_det[0],len(toss_det[0]), full_team_names[0], len(full_team_names[0]))
                     if toss_det[0] == full_team_names[0]:
-                        toss_win = toss_win + "Team 1"
+                        toss_win = toss_win + "Away"
                         # print(toss_det[0], full_team_names[0])
                     else:
-                        toss_win = toss_win + "Team 2"
+                        toss_win = toss_win + "Home"
                         # print(toss_det[0], full_team_names[1])
                     # print(toss_win)
                     
@@ -96,13 +117,6 @@ while error:
                     toss_win = "none"
                     toss_dec = "none"
 
-                # Finding Ground
-                full_place = soup.find("td", class_ = "match-venue").getText()
-                places = full_place.split(',')
-                stadium = places[0]
-
-                # Deciding Home Team And Away Team
-                for homeTeam in stadiums['']
                 
                 # Finding Winner of match
                 win = ""
@@ -118,22 +132,23 @@ while error:
                         win = win + "Tie"
                         # print(winner_arr, win)
                     elif winner_arr[0][:-2] == full_team_names[0]:
-                        win = win + "Team 1"
+                        win = win + "Away"
                         # print(winner_arr[0][:-2], full_team_names[0], win)
                     else:
-                        win = win + "Team 2"
+                        win = win + "Home"
                         # print(winner_arr[0][:-2], full_team_names[1], win)
                 else:
                     lose = soup.find("span", class_ = "score-run-gray")['title']
                     if lose != full_team_names:
-                        win = win + "Team 1"
+                        win = win + "Away"
                     else:
-                        win = win + "Team 2"
+                        win = win + "Home"
 
                     # print(lose)
                 # print(win)
 
-        #################        Collecting Playing 11 Data         #########
+        #################        Collecting Playing 11 Data         ############
+        
                 team_1 = []
                 team_2 = []
                 batsman_tag = soup.find_all("table", class_ = "batsman")
@@ -168,9 +183,10 @@ while error:
                 
                     
 
-                match = [season + "_" + match_id, season, teams[0], teams[1], toss_win, toss_dec, stadium, win]
+                match = [season + "_" + match_id, season, homeTeam, awayTeam, toss_win, toss_dec, stadium, win]
+                print(match)
                 playing_11 = [season + "_" + match_id, season, team_1, team_2]
-                del season, teams, toss_win, toss_dec, stadium, win, team_1, team_2
+                del season, teams, toss_win, toss_dec, stadium, win, team_1, team_2, homeTeam, awayTeam
                 match_id = match_id + 1
                 X.append(match)
                 playing.append(playing_11)

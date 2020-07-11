@@ -17,7 +17,7 @@ table = table[1:]       # Removing table Heading
 
 for rows in table:
     row = rows.find_all("td")
-    stadium_name = row[0].getText()
+    stadium_name = row[0].getText().strip('\n')
     home_team = []
     home_teams = row[5].find_all("a")
     for team in home_teams:
